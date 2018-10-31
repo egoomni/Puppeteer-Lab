@@ -1,36 +1,44 @@
 // https://developers.google.com/web/tools/puppeteer/get-started
 const rl = require('readline-sync');
-const slp = require('sleep-async')().Promise
 const puppeteer = require('puppeteer');
+const {neopets_login} = require('../login/index.js');
 
 const whereto = "http://www.neopets.com/lab2.phtml";
 
 (async () => {
 
   console.log("Launching Headless Chrome");
-  const browser = await puppeteer.launch();
+  const browser = await neopets_login("ethan_that_one_kid", "Blueberry01");
 
-  console.log("Browser initializing new page");
+  console.log("Browser opening new tab");
   const page = await browser.newPage();
 
   console.log(`Page going to ${whereto}`);
   await page.goto(whereto);
-  console.log("Arrived at destination");
 
-  // await slp.sleep(10 * 1000);
+  const neopets = await page.$$eval("input[type='radio']", radio_inputs => {
+    const all_neopets = [...radio_inputs].map(el => el.value);
+    return [...new Set(all_neopets)];
+  });
 
-  const divs = await page.$$eval("form", form => form[1]);
-  console.log(divs);
+  const neopet_index = rl.keyInSelect(neopets, "Which Neopet?");
+  const gimmeNeopet = neopets[neopet_index];
 
-  // const neopets = await page.$$eval("input[type='radio']", radio_inputs => {
-  //   const all_neopets = [...radio_inputs].map(el => el.value);
-  //   return [...new Set(all_neopets)];
-  // });
+  await page.evaluate((neopet) => document.querySelector(`input[type='radio'][value='${neopet}']`).checked = true, gimmeNeopet);
+
+  await page.click(`input[type='radio'][value='${neopets[neopet_index]}']`);
+  await page.click("input[type='submit'][value='Carry on with the Experiment!']");
+
+  console.log(`Submitting ${gimmeNeopet} for lab treatment`);
+
+  await page.waitForNavigation({waitUntil: "load"});
+
+  const date = new Date().toISOString().split("T")[0];
+  await page.screenshot({path: `${date}_lab_results.png`});
+  console.log("success");
+
+
   //
-  // console.log(neopets);
-  // const neopet_index = rl.keyInSelect(neopets, "Which Neopet?");
-
-  // `input[type='radio'][value='${neopets[neopets_index]}']`
 
   console.log("Closing Headless Chrome")
   await browser.close();
