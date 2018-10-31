@@ -3,5 +3,5 @@ Various Puppeteer experiments, implementations, research, and usages by EthanTha
 
 ## Projects
 * Neopets:
-  * [Trudy's Surprise]()
-  * [Lab]()
+  * [Trudy's Surprise](neopets/trudy)
+  * [Lab](neopets/lab)
