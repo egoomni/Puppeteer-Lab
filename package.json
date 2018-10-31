@@ -1,0 +1,30 @@
+{
+  "name": "puppeteer",
+  "version": "1.0.0",
+  "description": "Various Puppeteer experiments, implementations, research, and usages by EthanThatOneKid.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EthanThatOneKid/puppeteer.git"
+  },
+  "keywords": [
+    "puppeteer",
+    "neopets",
+    "instagram",
+    "scrape",
+    "scraping"
+  ],
+  "author": "EthanThatOneKid",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/EthanThatOneKid/puppeteer/issues"
+  },
+  "homepage": "https://github.com/EthanThatOneKid/puppeteer#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.9",
+    "sleep-async": "^1.0.5"
+  }
+}
