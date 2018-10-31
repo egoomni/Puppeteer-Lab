@@ -8,7 +8,7 @@ const whereto = "http://www.neopets.com/lab2.phtml";
 (async () => {
 
   console.log("Launching Headless Chrome");
-  const browser = await neopets_login("ethan_that_one_kid", "Blueberry01");
+  const browser = await neopets_login(process.env.USERNAME, process.env.PASSWORD);
 
   console.log("Browser opening new tab");
   const page = await browser.newPage();
@@ -34,12 +34,11 @@ const whereto = "http://www.neopets.com/lab2.phtml";
   await page.waitForNavigation({waitUntil: "load"});
 
   const date = new Date().toISOString().split("T")[0];
-  await page.screenshot({path: `${date}_lab_results.png`});
-  console.log("success");
-
-
-  //
+  const save_path = `${date}_lab_results.png`;
+  console.log(`Saving lab results to ${save_path}`);
+  await page.screenshot({path: save_path});
 
   console.log("Closing Headless Chrome")
   await browser.close();
+
 })();
