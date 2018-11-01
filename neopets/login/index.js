@@ -6,7 +6,7 @@ module.exports["neopets_login"] = async (username, password) => {
   console.log("Launching Headless Chrome");
   const browser = await puppeteer.launch();
 
-  console.log(`Logging in... Using ${username}`);
+  console.log("Logging in...");
   const page = await browser.newPage();
   await page.goto("http://www.neopets.com/login/index.phtml");
 
