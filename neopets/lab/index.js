@@ -37,9 +37,6 @@ const whereto = "http://www.neopets.com/lab2.phtml";
   await page.screenshot({path: `${date}_lab_results.png`});
   console.log("success");
 
-
-  //
-
   console.log("Closing Headless Chrome")
   await browser.close();
 })();
