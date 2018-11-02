@@ -23,16 +23,16 @@ module.exports["neopets_login"] = async (username, password) => {
   if (already_loggedin) {
 
     console.log("already logged in");
-    // console.log(await page.cookies());
 
   } else {
 
     let loggedin = false;
+
     const login_timer = setTimeout(() => {
       if (!loggedin)
         console.log("Failed to login.");
         process.exit(1);
-    }, 15 * 1000);
+    }, 60 * 1000);
 
     console.log("Processing login request...");
     await page.waitForNavigation({waitUntil: "load"});
