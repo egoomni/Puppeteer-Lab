@@ -18,4 +18,4 @@ Various Puppeteer experiments, implementations, research, and usages by EthanTha
 | ❌ | [Bank Interest](http://www.neopets.com/bank.phtml) |
 | ❌ | [Fishing](http://www.neopets.com/water/fishing.phtml) |
 | ❌ | [Anchor Management](http://www.neopets.com/pirates/anchormanagement.phtml) |
-| ❌ | [The Discarded Magical Blue Grundo Plushie of Prosperity](http://www.neopets.com/faerieland/tdmbgpop.phtml) |
+| ✅ | [The Discarded Magical Blue Grundo Plushie of Prosperity](http://www.neopets.com/faerieland/tdmbgpop.phtml) |
