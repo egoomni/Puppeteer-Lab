@@ -44,7 +44,7 @@ const whereto = "http://www.neopets.com/lab2.phtml";
   await page.waitForNavigation({waitUntil: "load"});
 
   const date = new Date().toISOString().split("T")[0];
-  const save_path = `${date}_lab_results.png`;
+  const save_path = `dump/${date}_lab_results.png`;
   console.log(`Saving lab results as ${save_path}`)
   await page.screenshot({path: save_path});
   console.log("SUCCESS");
