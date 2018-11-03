@@ -2,7 +2,7 @@ require('dotenv').load();
 const puppeteer = require('puppeteer');
 const {neopets_login} = require('../login/index.js');
 
-const whereto = "http://www.neopets.com/faerieland/tdmbgpop.phtml";
+const whereto = "http://www.neopets.com/island/tombola.phtml";
 
 (async () => {
 
@@ -18,15 +18,12 @@ const whereto = "http://www.neopets.com/faerieland/tdmbgpop.phtml";
   console.log(`Page going to ${whereto}`);
   await page.goto(whereto);
 
-  console.log("Talking to the Plushie");
-  await page.click("input[type='submit'][value='Talk to the Plushie']");
-
-  console.log("Waiting for Plushie's response");
-  await page.waitForNavigation({waitUntil: "load"});
+  console.log("Playing Tombola");
+  await page.click("input[type='submit'][value='Play Tombola!']");
 
   const date = new Date().toISOString().split("T")[0];
-  const save_path = `dump/${date}_tdmbgpop_results.png`;
-  console.log(`Saving tdmbgpop results as ${save_path}`);
+  const save_path = `dump/${date}_tombola_results.png`;
+  console.log(`Saving tombola results as ${save_path}`);
   await page.screenshot({path: save_path});
   console.log("SUCCESS");
 

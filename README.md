@@ -16,7 +16,7 @@ Various Puppeteer experiments, implementations, research, and usages by EthanTha
 | Done | Project |
 |---|---|
 | ✅ | [Lab](http://www.neopets.com/lab.phtml) |
-| ❌ | [Fruit Machine](http://www.neopets.com/desert/fruit/index.phtml) |
+| ✅ | [Fruit Machine](http://www.neopets.com/desert/fruit/index.phtml) |
 | ❌ | [Money Tree](http://www.neopets.com/donations.phtml) |
 | ❌ | [Grave Danger](http://www.neopets.com/halloween/gravedanger/index.phtml) |
 | ❌ | [Tiki Tack Tombola](http://www.neopets.com/island/tombola.phtml) |
