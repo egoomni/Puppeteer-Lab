@@ -1,4 +1,3 @@
-// https://developers.google.com/web/tools/puppeteer/get-started
 const puppeteer = require('puppeteer');
 
 module.exports["neopets_login"] = async (username, password) => {
