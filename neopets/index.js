@@ -22,9 +22,8 @@ const neopet_functions = [fruit_machine, tombola, lab, fishing, tdmbgpop];
   console.log("Browser opening new tab");
   const page = await browser.newPage();
 
-  for (let fn of neopet_functions) {
+  for (let fn of neopet_functions)
     await fn(page);
-  }
 
   console.log("hi from main");
 
