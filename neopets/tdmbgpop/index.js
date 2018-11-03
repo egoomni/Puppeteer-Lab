@@ -28,7 +28,7 @@ const whereto = "http://www.neopets.com/faerieland/tdmbgpop.phtml";
 
   const date = new Date().toISOString().split("T")[0];
   const save_path = `dump/${date}_tdmbgpop_results.png`;
-  console.log(`Saving lab results as ${save_path}`);
+  console.log(`Saving tdmbgpop results as ${save_path}`);
   await page.screenshot({path: save_path});
   console.log("SUCCESS");
 
