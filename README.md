@@ -13,10 +13,7 @@ Various Puppeteer experiments, implementations, research, and usages by EthanTha
   * [Money Tree](neopets/money_tree.js)
   * [Kreludor Meteor](neopets/meteor.js)
   * [Bank Interest](neopets/bank_interest.js)
-* __Instagram__:
-  * [Login Module](instagram/login.js)
-  * [Like Module](instagram/like.js)
-  * [Comment Module](instagram/comment.js)
+  * [Anchor Management](neopets/anchor.js)
 
 ## Neopets Plan:
 | Done | Project |
@@ -28,5 +25,12 @@ Various Puppeteer experiments, implementations, research, and usages by EthanTha
 | ✅ | [Kreludor Meteor](http://www.neopets.com/moon/meteor.phtml) |
 | ✅ | [Bank Interest](http://www.neopets.com/bank.phtml) |
 | ✅ | [Fishing](http://www.neopets.com/water/fishing.phtml) |
-| ❌ | [Anchor Management](http://www.neopets.com/pirates/anchormanagement.phtml) |
+| ✅ | [Anchor Management](http://www.neopets.com/pirates/anchormanagement.phtml) |
 | ✅ | [The Discarded Magical Blue Grundo Plushie of Prosperity](http://www.neopets.com/faerieland/tdmbgpop.phtml) |
+
+## Instagram Plan:
+| Done | Project |
+|---|---|
+| ❌ | [Login Module](instagram/login.js) |
+| ❌ | [Like Module](instagram/like.js) |
+| ❌ | [Comment Module](instagram/comment.js) |
