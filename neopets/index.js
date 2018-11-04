@@ -10,9 +10,10 @@ const {fishing} = require('./fishing.js');
 const {tdmbgpop} = require('./tdmbgpop.js');
 const {money_tree} = require('./money_tree.js');
 const {meteor} = require('./meteor.js');
+const {bank_interest} = require('./bank_interest.js');
 
 //const neopet_functions = [fruit_machine, tombola, lab, fishing, tdmbgpop];
-const neopet_functions = [meteor];
+const neopet_functions = [bank_interest];
 
 (async () => {
 
