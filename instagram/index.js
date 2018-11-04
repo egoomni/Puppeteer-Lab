@@ -4,6 +4,8 @@ const puppeteer = require('puppeteer');
 
 const {insta_login} = require('./login.js');
 
+const {like} = require('./like.js');
+
 (async () => {
 
   console.log("Launching Headless Chrome");
@@ -15,7 +17,9 @@ const {insta_login} = require('./login.js');
   console.log("Browser opening new tab");
   const page = await browser.newPage();
 
-  console.log("Your dailies have been completed!");
+  await like(page, "Bk_SnGEn4ec");
+
+  console.log("Welcome back to index.js");
   await browser.close();
 
 })();
