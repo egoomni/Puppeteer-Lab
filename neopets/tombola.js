@@ -1,6 +1,6 @@
 const puppeteer = require('puppeteer');
 
-module.exports["tombola"] = async (page) => {
+module.exports["tombola"] = async (page, date) => {
 
   const whereto = "http://www.neopets.com/island/tombola.phtml";
 
@@ -11,8 +11,7 @@ module.exports["tombola"] = async (page) => {
 
     console.log("Playing Tombola");
     await page.click("input[type='submit'][value='Play Tombola!']");
-
-    const date = new Date().toISOString().split("T")[0];
+    
     const save_path = `dump/tombola/${date}_tombola_results.png`;
     console.log(`Saving tombola results as ${save_path}`);
     await page.screenshot({path: save_path});

@@ -1,11 +1,10 @@
 const fs = require('fs');
 const puppeteer = require('puppeteer');
 
-module.exports["money_tree"] = async (page) => {
+module.exports["money_tree"] = async (page, date) => {
 
   const whereto = "http://www.neopets.com/donations.phtml";
 
-  const date = new Date().toISOString().split("T")[0];
   const save_path = `dump/money_tree/${date}_money_tree_results.txt`;
 
   const max_attempts = 15;

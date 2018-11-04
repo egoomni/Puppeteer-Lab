@@ -12,7 +12,10 @@ let neopet_functions = ["fruit_machine", "tombola", "lab", "fishing", "tdmbgpop"
 
 let progress;
 
-const date = new Date().toISOString().split("T")[0];
+let gimme_date = new Date();
+let date_offset = new Date().getTimezoneOffset();
+gimme_date.setMinutes(gimme_date.getMinutes() - date_offset);
+const date = gimme_date.toISOString().split("T")[0];
 const progress_path = `dump/progress/${date}.json`;
 
 if (fs.existsSync(progress_path)) {
@@ -50,7 +53,7 @@ if (fs.existsSync(progress_path)) {
     progress[name] = true;
     fs.writeFileSync(progress_path, JSON.stringify(progress));
 
-    await fn(page);
+    await fn(page, date);
 
   }
 

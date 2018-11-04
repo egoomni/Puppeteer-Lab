@@ -1,7 +1,7 @@
 const fs = require('fs');
 const puppeteer = require('puppeteer');
 
-module.exports["fishing"] = async (page) => {
+module.exports["fishing"] = async (page, date) => {
 
   const whereto1 = "http://www.neopets.com/quickref.phtml";
   const whereto2 = "http://www.neopets.com/process_changepet.phtml?new_active_pet=";
@@ -28,7 +28,6 @@ module.exports["fishing"] = async (page) => {
 
   }
 
-  const date = new Date().toISOString().split("T")[0];
   const save_dir = `dump/fishing/${date}`;
   if (!fs.existsSync(save_dir)) fs.mkdirSync(save_dir);
 

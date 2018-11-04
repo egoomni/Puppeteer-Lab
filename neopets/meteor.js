@@ -1,6 +1,6 @@
 const puppeteer = require('puppeteer');
 
-module.exports["meteor"] = async (page) => {
+module.exports["meteor"] = async (page, date) => {
 
   const whereto = "http://www.neopets.com/moon/meteor.phtml?getclose=1";
 
@@ -8,7 +8,6 @@ module.exports["meteor"] = async (page) => {
   await page.goto(whereto);
 
   let present;
-
 
   try {
 
@@ -27,7 +26,6 @@ module.exports["meteor"] = async (page) => {
 
   if (present) {
 
-    const date = new Date().toISOString().split("T")[0];
     const save_path = `dump/meteor/${date}_meteor_results.png`;
     console.log(`Saving meteor results as ${save_path}`);
     await page.screenshot({path: save_path});

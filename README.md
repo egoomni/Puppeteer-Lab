@@ -31,6 +31,6 @@ Various Puppeteer experiments, implementations, research, and usages by EthanTha
 ## Instagram Plan:
 | Done | Project |
 |---|---|
-| ❌ | [Login Module](instagram/login.js) |
-| ❌ | [Like Module](instagram/like.js) |
+| ✅ | [Login Module](instagram/login.js) |
+| ✅ | [Like Module](instagram/like.js) |
 | ❌ | [Comment Module](instagram/comment.js) |

@@ -1,6 +1,6 @@
 const puppeteer = require('puppeteer');
 
-module.exports["tdmbgpop"] = async (page) => {
+module.exports["tdmbgpop"] = async (page, date) => {
 
   const whereto = "http://www.neopets.com/faerieland/tdmbgpop.phtml";
 
@@ -15,7 +15,6 @@ module.exports["tdmbgpop"] = async (page) => {
     console.log("Waiting for Plushie's response");
     await page.waitForNavigation({waitUntil: "load"});
 
-    const date = new Date().toISOString().split("T")[0];
     const save_path = `dump/tdmbgpop/${date}_tdmbgpop_results.png`;
     console.log(`Saving tdmbgpop results as ${save_path}`);
     await page.screenshot({path: save_path});

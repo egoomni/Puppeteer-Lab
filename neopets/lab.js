@@ -1,7 +1,7 @@
 const rl = require('readline-sync');
 const puppeteer = require('puppeteer');
 
-module.exports["lab"] = async (page) => {
+module.exports["lab"] = async (page, date) => {
 
   const whereto = "http://www.neopets.com/lab2.phtml";
 
@@ -41,8 +41,7 @@ module.exports["lab"] = async (page) => {
     console.log(`Submitting ${gimmeNeopet} for lab treatment`);
 
     await page.waitForNavigation({waitUntil: "load"});
-
-    const date = new Date().toISOString().split("T")[0];
+    
     const save_path = `dump/lab/${date}_lab_results.png`;
     console.log(`Saving lab results as ${save_path}`)
     await page.screenshot({path: save_path});
