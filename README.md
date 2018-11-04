@@ -2,8 +2,8 @@
 Various Puppeteer experiments, implementations, research, and usages by EthanThatOneKid.
 
 ## Complete Projects
-* __Neopets__: (Dailies)[neopets/index.js]
-* __Instagram__: (Insta Bot)[instagram/index.js]
+* __Neopets__: [Dailies](neopets/index.js)
+* __Instagram__: [Insta Bot](instagram/index.js)
 
 ## Neopets Plan:
 | Done | Project |
