@@ -21,7 +21,7 @@ module.exports["meteor"] = async (page) => {
 
   } catch (err) {
 
-    console.log("The Kreludor Meteor is unavailable", err);
+    console.log("The Kreludor Meteor is unavailable");
 
   }
 

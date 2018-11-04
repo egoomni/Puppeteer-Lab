@@ -1,19 +1,38 @@
 require('dotenv').load();
+const fs = require('fs');
 const puppeteer = require('puppeteer');
 
 const {neopets_login} = require('./login.js');
 
-const {fruit_machine} = require('./fruit_machine.js');
-const {tombola} = require('./tombola.js');
-const {lab} = require('./lab.js');
-const {fishing} = require('./fishing.js');
-const {tdmbgpop} = require('./tdmbgpop.js');
-const {money_tree} = require('./money_tree.js');
-const {meteor} = require('./meteor.js');
-const {bank_interest} = require('./bank_interest.js');
-const {anchor} = require('./anchor.js');
+let neopet_functions = ["fruit_machine", "tombola", "lab", "fishing", "tdmbgpop", "money_tree", "meteor", "bank_interest", "anchor"]
+  .reduce((acc, cur) => {
+    acc[cur] = require(`./${cur}.js`)[cur];
+    return acc;
+  }, {});
 
-const neopet_functions = [fruit_machine, tombola, lab, fishing, tdmbgpop, money_tree, meteor, bank_interest, anchor];
+let progress;
+
+const date = new Date().toISOString().split("T")[0];
+const progress_path = `dump/progress/${date}.json`;
+
+if (fs.existsSync(progress_path)) {
+
+  progress = JSON.parse(fs.readFileSync(progress_path));
+  Object.entries(progress)
+    .forEach(([name, bool]) => {
+      if (bool)
+        delete neopet_functions[name];
+    });
+
+} else {
+
+  progress = Object.entries(neopet_functions)
+    .reduce((acc, [name, fn]) => {
+      acc[name] = false;
+      return acc;
+    }, {});
+
+}
 
 (async () => {
 
@@ -26,10 +45,16 @@ const neopet_functions = [fruit_machine, tombola, lab, fishing, tdmbgpop, money_
   console.log("Browser opening new tab");
   const page = await browser.newPage();
 
-  for (let fn of neopet_functions)
+  for (let [name, fn] of Object.entries(neopet_functions)) {
+
+    progress[name] = true;
+    fs.writeFileSync(progress_path, JSON.stringify(progress));
+
     await fn(page);
 
-  console.log("hi from main");
+  }
+
+  console.log("Your dailies have been completed!");
   await browser.close();
 
 })();
