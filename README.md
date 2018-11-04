@@ -2,18 +2,8 @@
 Various Puppeteer experiments, implementations, research, and usages by EthanThatOneKid.
 
 ## Complete Projects
-* __Neopets__:
-  * [Login Module](neopets/login.js)
-  * [Lab](neopets/lab.js)
-  * [TDMBGPOP](neopets/tdmbgpop.js)
-  * [Fishing](neopets/fishing.js)
-  * [Fruit Machine](neopets/fruit_machine.js)
-  * [Tiki Tack Tombola](neopets/tombola.js)
-  * [Fruit Machine](neopets/fruit_machine.js)
-  * [Money Tree](neopets/money_tree.js)
-  * [Kreludor Meteor](neopets/meteor.js)
-  * [Bank Interest](neopets/bank_interest.js)
-  * [Anchor Management](neopets/anchor.js)
+* __Neopets__: (Dailies)[neopets/index.js]
+* __Instagram__: (Insta Bot)[instagram/index.js]
 
 ## Neopets Plan:
 | Done | Project |
