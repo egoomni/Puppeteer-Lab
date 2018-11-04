@@ -11,9 +11,9 @@ const {tdmbgpop} = require('./tdmbgpop.js');
 const {money_tree} = require('./money_tree.js');
 const {meteor} = require('./meteor.js');
 const {bank_interest} = require('./bank_interest.js');
+const {anchor} = require('./anchor.js');
 
-//const neopet_functions = [fruit_machine, tombola, lab, fishing, tdmbgpop];
-const neopet_functions = [bank_interest];
+const neopet_functions = [fruit_machine, tombola, lab, fishing, tdmbgpop, money_tree, meteor, bank_interest, anchor];
 
 (async () => {
 
