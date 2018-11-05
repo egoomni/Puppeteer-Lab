@@ -32,7 +32,11 @@ module.exports = class Neopets_Progress {
 
     fs.writeFileSync(
       this.save_path,
-      JSON.stringify(this.data)
+      JSON.stringify(
+        this.data,
+        null,
+        2
+      )
     );
 
   }

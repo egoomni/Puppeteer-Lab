@@ -73,7 +73,9 @@ module.exports = class Neopets_Stats {
     fs.writeFileSync(
       this.save_path,
       JSON.stringify(
-        this.summarize()
+        this.summarize(),
+        null,
+        2
       )
     );
 
