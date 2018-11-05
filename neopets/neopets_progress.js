@@ -40,3 +40,5 @@ module.exports = class Neopets_Progress {
     );
 
   }
+
+}
