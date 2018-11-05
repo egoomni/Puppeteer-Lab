@@ -2,2292 +2,2750 @@
   "101 Tyrannian Omelettes": {
     "name": "101 Tyrannian Omelettes",
     "type": "Booktastic Book",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "A Fir Story": {
     "name": "A Fir Story",
     "type": "Book",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "A History of the Lost Desert": {
     "name": "A History of the Lost Desert",
     "type": "Desert Scroll",
-    "quantity": 5
+    "quantity": 5,
+    "price": null
   },
   "A Mysterious Valentines Card": {
     "name": "A Mysterious Valentines Card",
     "type": "Gift",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "A is for Aisha": {
     "name": "A is for Aisha",
     "type": "Book",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Abominable Snowflake": {
     "name": "Abominable Snowflake",
     "type": "Ice Crystal",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Abysmal Window": {
     "name": "Abysmal Window",
     "type": "Brightvale Windows",
-    "quantity": 3
+    "quantity": 3,
+    "price": null
   },
   "Acara Battle Book": {
     "name": "Acara Battle Book",
     "type": "Book",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Acara Fruit Salad": {
     "name": "Acara Fruit Salad",
     "type": "Healthy Food",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Advanced Fishing Set": {
     "name": "Advanced Fishing Set",
     "type": "Toy",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Air Faerie Bubble Necklace": {
     "name": "Air Faerie Bubble Necklace",
     "type": "Neocash",
-    "quantity": 1
+    "quantity": 1,
+    "price": 50
   },
   "Airax": {
     "name": "Airax",
     "type": "Tyrannian Petpet",
-    "quantity": 2
+    "quantity": 2,
+    "price": null
   },
   "Alien Aisha Zapzaggle": {
     "name": "Alien Aisha Zapzaggle",
     "type": "Gross Food",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Altador Stained Glass Window": {
     "name": "Altador Stained Glass Window",
     "type": "Brightvale Windows",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Altador Yoyo": {
     "name": "Altador Yoyo",
     "type": "Toy",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Altadorian Practice Helmet": {
     "name": "Altadorian Practice Helmet",
     "type": "Altadorian Armour",
-    "quantity": 3
+    "quantity": 3,
+    "price": null
   },
   "Amber Sword": {
     "name": "Amber Sword",
     "type": "Battle Magic",
-    "quantity": 2
+    "quantity": 2,
+    "price": null
   },
   "Amethyst Encrusted Dragoyle Box": {
     "name": "Amethyst Encrusted Dragoyle Box",
     "type": "Gift",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Ancient Scarab Scroll": {
     "name": "Ancient Scarab Scroll",
     "type": "Desert Scroll",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Ancient Shenkuu Cannon": {
     "name": "Ancient Shenkuu Cannon",
     "type": "Wonderous Weaponry",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Ancient Shopping List Scroll": {
     "name": "Ancient Shopping List Scroll",
     "type": "Qasalan Tablets",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Angular Sand Sculpture": {
     "name": "Angular Sand Sculpture",
     "type": "Furniture",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Antigravity Tulip": {
     "name": "Antigravity Tulip",
     "type": "Furniture",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Aqua Encrusted Dragoyle Box": {
     "name": "Aqua Encrusted Dragoyle Box",
     "type": "Gift",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Artichoke Pizza": {
     "name": "Artichoke Pizza",
     "type": "Pizza",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Assorted Fruits Stamp": {
     "name": "Assorted Fruits Stamp",
     "type": "Stamp",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "BBQ Sauce Omelette": {
     "name": "BBQ Sauce Omelette",
     "type": "Tyrannian Food",
-    "quantity": 2
+    "quantity": 2,
+    "price": null
   },
   "BOO Window": {
     "name": "BOO Window",
     "type": "Brightvale Windows",
-    "quantity": 2
+    "quantity": 2,
+    "price": null
   },
   "Baby Kougra Custard": {
     "name": "Baby Kougra Custard",
     "type": "Food",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Baby Moehogs": {
     "name": "Baby Moehogs",
     "type": "Book",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Baby Scorchio Plushie": {
     "name": "Baby Scorchio Plushie",
     "type": "Plushies",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Bacon Muffin": {
     "name": "Bacon Muffin",
     "type": "Food",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Bacon Omelette": {
     "name": "Bacon Omelette",
     "type": "Tyrannian Food",
-    "quantity": 2
+    "quantity": 2,
+    "price": null
   },
   "Bacon and Broccoli Omelette": {
     "name": "Bacon and Broccoli Omelette",
     "type": "Tyrannian Food",
-    "quantity": 3
+    "quantity": 3,
+    "price": null
   },
   "Bag of Broken Neopoints": {
     "name": "Bag of Broken Neopoints",
     "type": "Broken Toy",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Bag of Decorative Seashells": {
     "name": "Bag of Decorative Seashells",
     "type": "Island Merchandise",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Bag of Gravel": {
     "name": "Bag of Gravel",
     "type": "Gift",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Bag of Nuts": {
     "name": "Bag of Nuts",
     "type": "Food",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Bagguss": {
     "name": "Bagguss",
     "type": "Desert Food",
-    "quantity": 4
+    "quantity": 4,
+    "price": null
   },
   "Baked Beans": {
     "name": "Baked Beans",
     "type": "Food",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Balloon Lamp": {
     "name": "Balloon Lamp",
     "type": "Lampwyck's Lights Fantastic",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Balloons": {
     "name": "Balloons",
     "type": "Gift",
-    "quantity": 1
+    "quantity": 1,
+    "price": 150
   },
   "Balsa Wood Shield": {
     "name": "Balsa Wood Shield",
     "type": "Defence Magic",
-    "quantity": 2
+    "quantity": 2,
+    "price": null
   },
   "Banana Jelly": {
     "name": "Banana Jelly",
     "type": "Jelly Food",
-    "quantity": 2
+    "quantity": 2,
+    "price": null
   },
   "Bangles of the Deep": {
     "name": "Bangles of the Deep",
     "type": "Sea Shells",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Banjo": {
     "name": "Banjo",
     "type": "Instrument",
-    "quantity": 3
+    "quantity": 3,
+    "price": null
   },
   "Bargasaurus Steak": {
     "name": "Bargasaurus Steak",
     "type": "Tyrannian Food",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Basket of Gross Berries": {
     "name": "Basket of Gross Berries",
     "type": "Medieval Food",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Battle Scar Marking": {
     "name": "Battle Scar Marking",
     "type": "Neocash",
-    "quantity": 1
+    "quantity": 1,
+    "price": 100
   },
   "Beef and Veg Baby Food": {
     "name": "Beef and Veg Baby Food",
     "type": "Food",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Beetroot Ice Cream": {
     "name": "Beetroot Ice Cream",
     "type": "Food",
-    "quantity": 2
+    "quantity": 2,
+    "price": null
   },
   "Big n Bouncy Toy": {
     "name": "Big n Bouncy Toy",
     "type": "Toy",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Biyako": {
     "name": "Biyako",
     "type": "Fanciful Fauna",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Black Currant Omelette": {
     "name": "Black Currant Omelette",
     "type": "Tyrannian Food",
-    "quantity": 3
+    "quantity": 3,
+    "price": null
   },
   "Black Jewelled Collar": {
     "name": "Black Jewelled Collar",
     "type": "Clothes",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Black Satin Bow Tie": {
     "name": "Black Satin Bow Tie",
     "type": "Neocash",
-    "quantity": 1
+    "quantity": 1,
+    "price": 50
   },
   "Black Velvet Cloak": {
     "name": "Black Velvet Cloak",
     "type": "Brightvale Armour",
-    "quantity": 2
+    "quantity": 2,
+    "price": null
   },
   "Blackberry Pie": {
     "name": "Blackberry Pie",
     "type": "Baked",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Blandfish": {
     "name": "Blandfish",
     "type": "Food",
-    "quantity": 4
+    "quantity": 4,
+    "price": null
   },
   "Blank Black Tome": {
     "name": "Blank Black Tome",
     "type": "Gift",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Blank Blue Tome": {
     "name": "Blank Blue Tome",
     "type": "Gift",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Blank Green Tome": {
     "name": "Blank Green Tome",
     "type": "Gift",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Blank Grey Tome": {
     "name": "Blank Grey Tome",
     "type": "Gift",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Blank Maroon Tome": {
     "name": "Blank Maroon Tome",
     "type": "Gift",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Blank Violet Tome": {
     "name": "Blank Violet Tome",
     "type": "Gift",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Blazing Stone Mug of Borovan": {
     "name": "Blazing Stone Mug of Borovan",
     "type": "Molten Morsels",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Blue Bike": {
     "name": "Blue Bike",
     "type": "Toy",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Blue Flotsam Plushie": {
     "name": "Blue Flotsam Plushie",
     "type": "Plushies",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Blue Furry Negg": {
     "name": "Blue Furry Negg",
     "type": "Food",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Blue Ixi Plushie": {
     "name": "Blue Ixi Plushie",
     "type": "Plushies",
-    "quantity": 2
+    "quantity": 2,
+    "price": null
   },
   "Blue Kiko Squeeze Toy": {
     "name": "Blue Kiko Squeeze Toy",
     "type": "Toy",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Blue Meerca Gnome Plushie": {
     "name": "Blue Meerca Gnome Plushie",
     "type": "Plushies",
-    "quantity": 2
+    "quantity": 2,
+    "price": null
   },
   "Blue Mynci Puppet": {
     "name": "Blue Mynci Puppet",
     "type": "Toy",
-    "quantity": 2
+    "quantity": 2,
+    "price": null
   },
   "Blue Negg Goo": {
     "name": "Blue Negg Goo",
     "type": "Toy",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Blue Ruki Plushie": {
     "name": "Blue Ruki Plushie",
     "type": "Plushies",
-    "quantity": 2
+    "quantity": 2,
+    "price": null
   },
   "Blue Slorg Calculator": {
     "name": "Blue Slorg Calculator",
     "type": "School",
-    "quantity": 5
+    "quantity": 5,
+    "price": null
   },
   "Blueberry Gateaux": {
     "name": "Blueberry Gateaux",
     "type": "Space Food",
-    "quantity": 2
+    "quantity": 2,
+    "price": null
   },
   "Blueberry Jelly": {
     "name": "Blueberry Jelly",
     "type": "Jelly Food",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Boiled Egg": {
     "name": "Boiled Egg",
     "type": "Food",
-    "quantity": 2
+    "quantity": 2,
+    "price": null
   },
   "Bone Dog": {
     "name": "Bone Dog",
     "type": "Spooky Food",
-    "quantity": 3
+    "quantity": 3,
+    "price": null
   },
   "Bone Necklace": {
     "name": "Bone Necklace",
     "type": "Neocash",
-    "quantity": 1
+    "quantity": 1,
+    "price": 50
   },
   "Bori Dart Game": {
     "name": "Bori Dart Game",
     "type": "Toy",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Bottle of Black Sand": {
     "name": "Bottle of Black Sand",
     "type": "Island Merchandise",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Bottle of Blue Sand": {
     "name": "Bottle of Blue Sand",
     "type": "Island Merchandise",
-    "quantity": 2
+    "quantity": 2,
+    "price": null
   },
   "Bottle of Red Sand": {
     "name": "Bottle of Red Sand",
     "type": "Island Merchandise",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Bottle of White Sand": {
     "name": "Bottle of White Sand",
     "type": "Island Merchandise",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Bottled Holiday Cheer": {
     "name": "Bottled Holiday Cheer",
     "type": "Medical Cures",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Bow Tie": {
     "name": "Bow Tie",
     "type": "Clothes",
-    "quantity": 1
+    "quantity": 1,
+    "price": 150
   },
   "Box of Dung Chocolates": {
     "name": "Box of Dung Chocolates",
     "type": "Candy",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Box of Wheat Flakes": {
     "name": "Box of Wheat Flakes",
     "type": "Food",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Brain Muffin": {
     "name": "Brain Muffin",
     "type": "Battle Magic",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Brain Stew": {
     "name": "Brain Stew",
     "type": "Spooky Food",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Branston Battlecard": {
     "name": "Branston Battlecard",
     "type": "Battle Magic",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Breadfish": {
     "name": "Breadfish",
     "type": "Food",
-    "quantity": 2
+    "quantity": 2,
+    "price": null
   },
   "Brightvale Berry Stained Glass Window": {
     "name": "Brightvale Berry Stained Glass Window",
     "type": "Brightvale Windows",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Brightvale Prison Cell Background": {
     "name": "Brightvale Prison Cell Background",
     "type": "Mystical Surroundings",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Broken Blue Fuzzle": {
     "name": "Broken Blue Fuzzle",
     "type": "Broken Toy",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Broken Fake Uni Hat": {
     "name": "Broken Fake Uni Hat",
     "type": "Broken Toy",
-    "quantity": 2
+    "quantity": 2,
+    "price": null
   },
   "Broken Fishing Pole": {
     "name": "Broken Fishing Pole",
     "type": "Special",
-    "quantity": 3
+    "quantity": 3,
+    "price": null
   },
   "Broken Toy Sailboat": {
     "name": "Broken Toy Sailboat",
     "type": "Special",
-    "quantity": 2
+    "quantity": 2,
+    "price": null
   },
   "Brown Evil Fuzzle": {
     "name": "Brown Evil Fuzzle",
     "type": "Plushies",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Brown Winter Scarf": {
     "name": "Brown Winter Scarf",
     "type": "Clothes",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Bubble Mote": {
     "name": "Bubble Mote",
     "type": "Brightvale Motes",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Bubble Paper": {
     "name": "Bubble Paper",
     "type": "Toy",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Bucket of Sludge": {
     "name": "Bucket of Sludge",
     "type": "Special",
-    "quantity": 5
+    "quantity": 5,
+    "price": null
   },
   "Buckled Leather Tunic": {
     "name": "Buckled Leather Tunic",
     "type": "Brightvale Armour",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Buried Scroll": {
     "name": "Buried Scroll",
     "type": "Desert Scroll",
-    "quantity": 2
+    "quantity": 2,
+    "price": null
   },
   "Butterfish": {
     "name": "Butterfish",
     "type": "Food",
-    "quantity": 5
+    "quantity": 5,
+    "price": null
   },
   "Butterscotch Disc": {
     "name": "Butterscotch Disc",
     "type": "Candy",
-    "quantity": 2
+    "quantity": 2,
+    "price": null
   },
   "Butterscotch Milkshake": {
     "name": "Butterscotch Milkshake",
     "type": "Food",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Buzz Gourmet": {
     "name": "Buzz Gourmet",
     "type": "Book",
-    "quantity": 3
+    "quantity": 3,
+    "price": null
   },
   "Cactus Blossom": {
     "name": "Cactus Blossom",
     "type": "Tyrannian Food",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Cactus Leaf": {
     "name": "Cactus Leaf",
     "type": "Tyrannian Food",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Callenuella": {
     "name": "Callenuella",
     "type": "Tropical Food",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Candy Faerie Jetsam Plushie": {
     "name": "Candy Faerie Jetsam Plushie",
     "type": "Plushies",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Candy Kougra Plushie": {
     "name": "Candy Kougra Plushie",
     "type": "Plushies",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Capara Battlecard": {
     "name": "Capara Battlecard",
     "type": "Battle Magic",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Caramel Quiggle Foot": {
     "name": "Caramel Quiggle Foot",
     "type": "Baked",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Carrot Lupe Treat": {
     "name": "Carrot Lupe Treat",
     "type": "Food",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Carrot and Pea Omelette": {
     "name": "Carrot and Pea Omelette",
     "type": "Tyrannian Food",
-    "quantity": 3
+    "quantity": 3,
+    "price": null
   },
   "Carved Cantaloupe": {
     "name": "Carved Cantaloupe",
     "type": "Brightvale Fruit",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Carved Seashell": {
     "name": "Carved Seashell",
     "type": "Island Merchandise",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Casket Table": {
     "name": "Casket Table",
     "type": "Spooky Furniture",
-    "quantity": 2
+    "quantity": 2,
+    "price": null
   },
   "Castle Window": {
     "name": "Castle Window",
     "type": "Brightvale Windows",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Cave Foreground": {
     "name": "Cave Foreground",
     "type": "Ugga Shinies",
-    "quantity": 2
+    "quantity": 2,
+    "price": null
   },
   "Cave Rock": {
     "name": "Cave Rock",
     "type": "Gardening",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Celebration Dinner Portrait": {
     "name": "Celebration Dinner Portrait",
     "type": "Gift",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Cello": {
     "name": "Cello",
     "type": "Instrument",
-    "quantity": 3
+    "quantity": 3,
+    "price": null
   },
   "Cheap Water Ring": {
     "name": "Cheap Water Ring",
     "type": "Battle Magic",
-    "quantity": 5
+    "quantity": 5,
+    "price": null
   },
   "Checkered Faerie Blumaroo Plushie": {
     "name": "Checkered Faerie Blumaroo Plushie",
     "type": "Plushies",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Cheery Plant": {
     "name": "Cheery Plant",
     "type": "Gardening",
-    "quantity": 4
+    "quantity": 4,
+    "price": null
   },
   "Cheese Covered Caramel Apple": {
     "name": "Cheese Covered Caramel Apple",
     "type": "Gross Food",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Cheese Jelly": {
     "name": "Cheese Jelly",
     "type": "Jelly Food",
-    "quantity": 3
+    "quantity": 3,
+    "price": null
   },
   "Cheese Omelette": {
     "name": "Cheese Omelette",
     "type": "Tyrannian Food",
-    "quantity": 2
+    "quantity": 2,
+    "price": null
   },
   "Cheese Roller Action Figure": {
     "name": "Cheese Roller Action Figure",
     "type": "Toy",
-    "quantity": 2
+    "quantity": 2,
+    "price": null
   },
   "Cheese Tortilla": {
     "name": "Cheese Tortilla",
     "type": "Food",
-    "quantity": 2
+    "quantity": 2,
+    "price": null
   },
   "Cheese and Onion Omelette": {
     "name": "Cheese and Onion Omelette",
     "type": "Tyrannian Food",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Cheops Plant": {
     "name": "Cheops Plant",
     "type": "Desert Food",
-    "quantity": 2
+    "quantity": 2,
+    "price": null
   },
   "Cherries Jubalee": {
     "name": "Cherries Jubalee",
     "type": "Space Food",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Cherry Milkshake": {
     "name": "Cherry Milkshake",
     "type": "Food",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Chewing Dung": {
     "name": "Chewing Dung",
     "type": "Gross Food",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Chicken Cordon Bleu": {
     "name": "Chicken Cordon Bleu",
     "type": "Space Food",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Chilli Stir Fry": {
     "name": "Chilli Stir Fry",
     "type": "Exotic Foods",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Chocolate Acara Sandwich Cookie": {
     "name": "Chocolate Acara Sandwich Cookie",
     "type": "Baked",
-    "quantity": 2
+    "quantity": 2,
+    "price": null
   },
   "Chocolate Cherry Bundt Cake": {
     "name": "Chocolate Cherry Bundt Cake",
     "type": "Neovian Pastries",
-    "quantity": 3
+    "quantity": 3,
+    "price": null
   },
   "Chocolate Chip Cookie": {
     "name": "Chocolate Chip Cookie",
     "type": "Baked",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Chocolate Coated Pretzel": {
     "name": "Chocolate Coated Pretzel",
     "type": "Candy",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Chocolate Jack-O-Lantern Chip Cookie": {
     "name": "Chocolate Jack-O-Lantern Chip Cookie",
     "type": "Spooky Food",
-    "quantity": 2
+    "quantity": 2,
+    "price": null
   },
   "Chocolate Milkshake": {
     "name": "Chocolate Milkshake",
     "type": "Food",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Chocolate Omelette": {
     "name": "Chocolate Omelette",
     "type": "Tyrannian Food",
-    "quantity": 4
+    "quantity": 4,
+    "price": null
   },
   "Chokato Crisps": {
     "name": "Chokato Crisps",
     "type": "Food",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Chokato Omelette": {
     "name": "Chokato Omelette",
     "type": "Tyrannian Food",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Chomby Head Cupcake": {
     "name": "Chomby Head Cupcake",
     "type": "Tyrannian Food",
-    "quantity": 3
+    "quantity": 3,
+    "price": null
   },
   "Chomby Pop-Up Book": {
     "name": "Chomby Pop-Up Book",
     "type": "Book",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Chomby and the Fungus Balls Jacket": {
     "name": "Chomby and the Fungus Balls Jacket",
     "type": "Gift",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Christmas Crystacat": {
     "name": "Christmas Crystacat",
     "type": "Desert Petpet",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Christmas Frowny": {
     "name": "Christmas Frowny",
     "type": "Aquatic Petpet",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Christmas Ghostkerhat": {
     "name": "Christmas Ghostkerhat",
     "type": "Clothes",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Christmas Grundo Thief Plushie": {
     "name": "Christmas Grundo Thief Plushie",
     "type": "Plushies",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Chunk of Meat": {
     "name": "Chunk of Meat",
     "type": "Tyrannian Food",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Churros": {
     "name": "Churros",
     "type": "Food",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Cinder Block Sea Fungus": {
     "name": "Cinder Block Sea Fungus",
     "type": "Gardening",
-    "quantity": 3
+    "quantity": 3,
+    "price": null
   },
   "Cinnamon Raisin Oatmeal": {
     "name": "Cinnamon Raisin Oatmeal",
     "type": "Healthy Food",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Circlet of the Deep": {
     "name": "Circlet of the Deep",
     "type": "Sea Shells",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Clay Omelette": {
     "name": "Clay Omelette",
     "type": "Tyrannian Food",
-    "quantity": 2
+    "quantity": 2,
+    "price": null
   },
   "Clay Shield": {
     "name": "Clay Shield",
     "type": "Defence Magic",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Cloud Jetsam Keyring": {
     "name": "Cloud Jetsam Keyring",
     "type": "Toy",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Cobrall In A Can": {
     "name": "Cobrall In A Can",
     "type": "Battle Magic",
-    "quantity": 3
+    "quantity": 3,
+    "price": null
   },
   "Cobrall Root": {
     "name": "Cobrall Root",
     "type": "Remarkable Restoratives",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Cocoa Juppie": {
     "name": "Cocoa Juppie",
     "type": "Tropical Food",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Cocorot": {
     "name": "Cocorot",
     "type": "Brightvale Fruit",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Coffee and Marshmallows": {
     "name": "Coffee and Marshmallows",
     "type": "Special",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Color Pencils Mirror Frame": {
     "name": "Color Pencils Mirror Frame",
     "type": "Gift",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Colourful Snowy Window": {
     "name": "Colourful Snowy Window",
     "type": "Brightvale Windows",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Coltzans Gem": {
     "name": "Coltzans Gem",
     "type": "Battle Magic",
-    "quantity": 2
+    "quantity": 2,
+    "price": null
   },
   "Complimentary Virtupets Toaster": {
     "name": "Complimentary Virtupets Toaster",
     "type": "Gift",
-    "quantity": 2
+    "quantity": 2,
+    "price": null
   },
   "Corn Salad": {
     "name": "Corn Salad",
     "type": "Healthy Food",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Cornupepper Jelly": {
     "name": "Cornupepper Jelly",
     "type": "Jelly Food",
-    "quantity": 6
+    "quantity": 6,
+    "price": null
   },
   "Cosmic Cheese Stars Coin": {
     "name": "Cosmic Cheese Stars Coin",
     "type": "Collectibles",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Cosmic Ring Cereal": {
     "name": "Cosmic Ring Cereal",
     "type": "Space Food",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Courgette Boat": {
     "name": "Courgette Boat",
     "type": "Toy",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Courgette Building Logs": {
     "name": "Courgette Building Logs",
     "type": "Toy",
-    "quantity": 2
+    "quantity": 2,
+    "price": null
   },
   "Crabby Apple": {
     "name": "Crabby Apple",
     "type": "Spooky Food",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Cranberry Kiko Drink": {
     "name": "Cranberry Kiko Drink",
     "type": "Kiko Lake Food",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Creepy Wind-Up Meepit": {
     "name": "Creepy Wind-Up Meepit",
     "type": "Toy",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Crispy Pumpkin Chips": {
     "name": "Crispy Pumpkin Chips",
     "type": "Spooky Food",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Crunchy Kacheek Cereal": {
     "name": "Crunchy Kacheek Cereal",
     "type": "Food",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Crying Corn": {
     "name": "Crying Corn",
     "type": "Healthy Food",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Cubefish": {
     "name": "Cubefish",
     "type": "Food",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Cubical Sea Fungus": {
     "name": "Cubical Sea Fungus",
     "type": "Gardening",
-    "quantity": 3
+    "quantity": 3,
+    "price": null
   },
   "Cursed Qasalan Pancakes": {
     "name": "Cursed Qasalan Pancakes",
     "type": "Qasalan Food",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Curses of Qasala": {
     "name": "Curses of Qasala",
     "type": "Qasalan Tablets",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Custard Aroota": {
     "name": "Custard Aroota",
     "type": "Petpet",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Cyodrakes Gaze Keychain": {
     "name": "Cyodrakes Gaze Keychain",
     "type": "Gift",
-    "quantity": 2
+    "quantity": 2,
+    "price": null
   },
   "Daily Dare Slushie": {
     "name": "Daily Dare Slushie",
     "type": "Slushie",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Dandelion and Burdock Drink": {
     "name": "Dandelion and Burdock Drink",
     "type": "Food",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Dappled Apple": {
     "name": "Dappled Apple",
     "type": "Spooky Food",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Darigan Faellie Action Figure": {
     "name": "Darigan Faellie Action Figure",
     "type": "Darigan Toy",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Darigan Seaweed": {
     "name": "Darigan Seaweed",
     "type": "Gardening",
-    "quantity": 4
+    "quantity": 4,
+    "price": null
   },
   "De-Slorg Your Farm": {
     "name": "De-Slorg Your Farm",
     "type": "Book",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Deadly Attack Spork": {
     "name": "Deadly Attack Spork",
     "type": "Battle Magic",
-    "quantity": 3
+    "quantity": 3,
+    "price": null
   },
   "Dehydrated Ice Cream": {
     "name": "Dehydrated Ice Cream",
     "type": "Space Food",
-    "quantity": 2
+    "quantity": 2,
+    "price": null
   },
   "Delectable Mould Garden": {
     "name": "Delectable Mould Garden",
     "type": "Gross Food",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Desert Scorchio Care Guide": {
     "name": "Desert Scorchio Care Guide",
     "type": "Book",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Deserted Desert Scroll": {
     "name": "Deserted Desert Scroll",
     "type": "Desert Scroll",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Deserted Tomb Puzzle": {
     "name": "Deserted Tomb Puzzle",
     "type": "Toy",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Diamond Encrusted Dragoyle Box": {
     "name": "Diamond Encrusted Dragoyle Box",
     "type": "Gift",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Dirt Pie": {
     "name": "Dirt Pie",
     "type": "Food",
-    "quantity": 2
+    "quantity": 2,
+    "price": null
   },
   "Disappearing Plate of Biscuits": {
     "name": "Disappearing Plate of Biscuits",
     "type": "Food",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Discarded Camouflage Yurble Plushie": {
     "name": "Discarded Camouflage Yurble Plushie",
     "type": "Plushies",
-    "quantity": 2
+    "quantity": 2,
+    "price": null
   },
   "Discarded Cloud Krawk Plushie": {
     "name": "Discarded Cloud Krawk Plushie",
     "type": "Plushies",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Discarded Maractite Ogrin Plushie": {
     "name": "Discarded Maractite Ogrin Plushie",
     "type": "Plushies",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Discarded Stealthy Vandagyre Plushie": {
     "name": "Discarded Stealthy Vandagyre Plushie",
     "type": "Plushies",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Diseased Mechafish": {
     "name": "Diseased Mechafish",
     "type": "Toy",
-    "quantity": 2
+    "quantity": 2,
+    "price": null
   },
   "Djuti Dentist Plushie": {
     "name": "Djuti Dentist Plushie",
     "type": "Plushies",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Doughnut Holes": {
     "name": "Doughnut Holes",
     "type": "Baked",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Dream Clouds": {
     "name": "Dream Clouds",
     "type": "Faerie Book",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Dried Apricots": {
     "name": "Dried Apricots",
     "type": "Food",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Drillaroot": {
     "name": "Drillaroot",
     "type": "Tropical Food",
-    "quantity": 2
+    "quantity": 2,
+    "price": null
   },
   "Dull Grey Pearl": {
     "name": "Dull Grey Pearl",
     "type": "Special",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Dung Arm Chair": {
     "name": "Dung Arm Chair",
     "type": "Tyrannian Furniture",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Dung Berry Tonu Cupcake": {
     "name": "Dung Berry Tonu Cupcake",
     "type": "Baked",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Dung Cream Sandwich": {
     "name": "Dung Cream Sandwich",
     "type": "Gross Food",
-    "quantity": 2
+    "quantity": 2,
+    "price": null
   },
   "Dung Jelly": {
     "name": "Dung Jelly",
     "type": "Jelly Food",
-    "quantity": 2
+    "quantity": 2,
+    "price": null
   },
   "Dung Lamp": {
     "name": "Dung Lamp",
     "type": "Tyrannian Furniture",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Dung Mote Plushie": {
     "name": "Dung Mote Plushie",
     "type": "Plushies",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Dung Shelf": {
     "name": "Dung Shelf",
     "type": "Tyrannian Furniture",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Dung Shield": {
     "name": "Dung Shield",
     "type": "Defence Magic",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Dung Toilet": {
     "name": "Dung Toilet",
     "type": "Tyrannian Furniture",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Duocorn": {
     "name": "Duocorn",
     "type": "Tyrannian Petpet",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Earrings of the Deep": {
     "name": "Earrings of the Deep",
     "type": "Sea Shells",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Eau de Korbat": {
     "name": "Eau de Korbat",
     "type": "Grooming",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Edible Smelly Gym Socks": {
     "name": "Edible Smelly Gym Socks",
     "type": "Food",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Egg Salad and Cheese Sandwich": {
     "name": "Egg Salad and Cheese Sandwich",
     "type": "Food",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Eggs on Rock": {
     "name": "Eggs on Rock",
     "type": "Tyrannian Food",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Elderly Moustache Comb": {
     "name": "Elderly Moustache Comb",
     "type": "Grooming",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Elegant Jewelled Robe": {
     "name": "Elegant Jewelled Robe",
     "type": "Brightvale Armour",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Elephante Attack Peanut": {
     "name": "Elephante Attack Peanut",
     "type": "Battle Magic",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Elephante Dreams": {
     "name": "Elephante Dreams",
     "type": "Book",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Elixir of Intellect": {
     "name": "Elixir of Intellect",
     "type": "Brightvale Potions",
-    "quantity": 3
+    "quantity": 3,
+    "price": null
   },
   "Emerald Encrusted Dragoyle Box": {
     "name": "Emerald Encrusted Dragoyle Box",
     "type": "Gift",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Eo Codestone": {
     "name": "Eo Codestone",
     "type": "Special",
-    "quantity": 2
+    "quantity": 2,
+    "price": null
   },
   "Evil Hair Clip": {
     "name": "Evil Hair Clip",
     "type": "Grooming",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Evil Hand Chair With Lumbar Support": {
     "name": "Evil Hand Chair With Lumbar Support",
     "type": "Spooky Furniture",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Evil Snowball": {
     "name": "Evil Snowball",
     "type": "Battle Magic",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Exfoliating Sand Soap": {
     "name": "Exfoliating Sand Soap",
     "type": "Grooming",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Extra Evil Snowball": {
     "name": "Extra Evil Snowball",
     "type": "Battle Magic",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Eye Of Mortog": {
     "name": "Eye Of Mortog",
     "type": "Magic Item",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Eyefish": {
     "name": "Eyefish",
     "type": "Food",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Faerie Hot Dog": {
     "name": "Faerie Hot Dog",
     "type": "Hot Dog",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Faerie Techo Plushie": {
     "name": "Faerie Techo Plushie",
     "type": "Plushies",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Faeries Fortune Scratchcard": {
     "name": "Faeries Fortune Scratchcard",
     "type": "Special",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Fake Dung": {
     "name": "Fake Dung",
     "type": "Toy",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Fake Neocola Token on a String": {
     "name": "Fake Neocola Token on a String",
     "type": "Gift",
-    "quantity": 2
+    "quantity": 2,
+    "price": null
   },
   "Fake Shoyru Gum Shocker": {
     "name": "Fake Shoyru Gum Shocker",
     "type": "Toy",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Fancy Ice Cream": {
     "name": "Fancy Ice Cream",
     "type": "Food",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Fangy": {
     "name": "Fangy",
     "type": "Tyrannian Petpet",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Farmer Usuki Doll": {
     "name": "Farmer Usuki Doll",
     "type": "Usuki Doll",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Fauna Stamp": {
     "name": "Fauna Stamp",
     "type": "Stamp",
-    "quantity": 3
+    "quantity": 3,
+    "price": null
   },
   "Felf": {
     "name": "Felf",
     "type": "Wintery Petpet",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Festering Coffee": {
     "name": "Festering Coffee",
     "type": "Spooky Food",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Fibre Supplement": {
     "name": "Fibre Supplement",
     "type": "Healthy Food",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Fire Candy Buttons": {
     "name": "Fire Candy Buttons",
     "type": "Candy",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Fire Jelly": {
     "name": "Fire Jelly",
     "type": "Jelly Food",
-    "quantity": 2
+    "quantity": 2,
+    "price": null
   },
   "Fire Muffin": {
     "name": "Fire Muffin",
     "type": "Battle Magic",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Fishberry": {
     "name": "Fishberry",
     "type": "Medieval Food",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Flaming Dagger Of Fire": {
     "name": "Flaming Dagger Of Fire",
     "type": "Tyrannian Weaponry",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Flask of Liquid Light": {
     "name": "Flask of Liquid Light",
     "type": "Brightvale Potions",
-    "quantity": 2
+    "quantity": 2,
+    "price": null
   },
   "Flatfruit Lollypop": {
     "name": "Flatfruit Lollypop",
     "type": "Tropical Food",
-    "quantity": 2
+    "quantity": 2,
+    "price": null
   },
   "Flotsam Kelp Shake": {
     "name": "Flotsam Kelp Shake",
     "type": "Food",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Flutter": {
     "name": "Flutter",
     "type": "Collectable Card",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Folded Paper Hat": {
     "name": "Folded Paper Hat",
     "type": "Toy",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Forest Fruit Baby Food": {
     "name": "Forest Fruit Baby Food",
     "type": "Food",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Forgotten Shore Map Piece": {
     "name": "Forgotten Shore Map Piece",
     "type": "Special",
-    "quantity": 5
+    "quantity": 5,
+    "price": null
   },
   "Four Leaf Clovers - Fact or Fiction?": {
     "name": "Four Leaf Clovers - Fact or Fiction?",
     "type": "Book",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Freeze Dried Meat": {
     "name": "Freeze Dried Meat",
     "type": "Food",
-    "quantity": 2
+    "quantity": 2,
+    "price": null
   },
   "Fresh Fruit Surprise Omelette": {
     "name": "Fresh Fruit Surprise Omelette",
     "type": "Tyrannian Food",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Fresh Skeem Fruit Salad": {
     "name": "Fresh Skeem Fruit Salad",
     "type": "Brightvale Fruit",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Freshly Tinned Carrots": {
     "name": "Freshly Tinned Carrots",
     "type": "Healthy Food",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Fried Chicken Breast": {
     "name": "Fried Chicken Breast",
     "type": "Food",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Frost Bite Egg": {
     "name": "Frost Bite Egg",
     "type": "Ice Crystal",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Frosted Grub Burrito": {
     "name": "Frosted Grub Burrito",
     "type": "Gross Food",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Frozen Block of Sustenance": {
     "name": "Frozen Block of Sustenance",
     "type": "Space Food",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Frozen Jelly": {
     "name": "Frozen Jelly",
     "type": "Jelly Food",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Frozen Scarf": {
     "name": "Frozen Scarf",
     "type": "Battle Magic",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Fungus Cave Background": {
     "name": "Fungus Cave Background",
     "type": "Mystical Surroundings",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Furanga Fruit": {
     "name": "Furanga Fruit",
     "type": "Brightvale Fruit",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Fuzzie Bear": {
     "name": "Fuzzie Bear",
     "type": "Toy",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "GX-4 Oscillabot": {
     "name": "GX-4 Oscillabot",
     "type": "Robot Petpet",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Galactic Protein Shake": {
     "name": "Galactic Protein Shake",
     "type": "Space Food",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Gallion Care": {
     "name": "Gallion Care",
     "type": "Book",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Gallion Yoyo": {
     "name": "Gallion Yoyo",
     "type": "Toy",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Garlic Kiko Plushie": {
     "name": "Garlic Kiko Plushie",
     "type": "Plushies",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Gelatinous Bouillon Non-Cube": {
     "name": "Gelatinous Bouillon Non-Cube",
     "type": "Spooky Food",
-    "quantity": 2
+    "quantity": 2,
+    "price": null
   },
   "Gelert Wand": {
     "name": "Gelert Wand",
     "type": "Battle Magic",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "General Crustygums": {
     "name": "General Crustygums",
     "type": "Collectable Card",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Geraptiku Burger": {
     "name": "Geraptiku Burger",
     "type": "Tropical Food",
-    "quantity": 2
+    "quantity": 2,
+    "price": null
   },
   "Geraptiku Christmas Tree": {
     "name": "Geraptiku Christmas Tree",
     "type": "Gift",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Geraptiku Holiday Mask": {
     "name": "Geraptiku Holiday Mask",
     "type": "Gift",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Geraptiku Snowglobe": {
     "name": "Geraptiku Snowglobe",
     "type": "Toy",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Ghost Goople": {
     "name": "Ghost Goople",
     "type": "Spooky Petpet",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Ghost Moehog Flying Disc": {
     "name": "Ghost Moehog Flying Disc",
     "type": "Toy",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Ghost Ponka": {
     "name": "Ghost Ponka",
     "type": "Geraptiku Petpet",
-    "quantity": 2
+    "quantity": 2,
+    "price": null
   },
   "Ghost Wrap": {
     "name": "Ghost Wrap",
     "type": "Spooky Food",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Ghostkerchief Banjo": {
     "name": "Ghostkerchief Banjo",
     "type": "Instrument",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Ghoti": {
     "name": "Ghoti",
     "type": "Aquatic Petpet",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Ghoul Catchers Coat of Containment": {
     "name": "Ghoul Catchers Coat of Containment",
     "type": "Clothes",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Giant Bath Plug": {
     "name": "Giant Bath Plug",
     "type": "Special",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Giant Brown Kelp": {
     "name": "Giant Brown Kelp",
     "type": "Gardening",
-    "quantity": 2
+    "quantity": 2,
+    "price": null
   },
   "Giant Bubble Blower": {
     "name": "Giant Bubble Blower",
     "type": "Toy",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Giant Giant Squid": {
     "name": "Giant Giant Squid",
     "type": "Food",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Giant Grarrl Burger": {
     "name": "Giant Grarrl Burger",
     "type": "Food",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Giant Green Kelp": {
     "name": "Giant Green Kelp",
     "type": "Gardening",
-    "quantity": 3
+    "quantity": 3,
+    "price": null
   },
   "Giant Omelette Trick-or-Treat Bag": {
     "name": "Giant Omelette Trick-or-Treat Bag",
     "type": "Toy",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Giant Red Kelp": {
     "name": "Giant Red Kelp",
     "type": "Gardening",
-    "quantity": 4
+    "quantity": 4,
+    "price": null
   },
   "Gikerot": {
     "name": "Gikerot",
     "type": "Fanciful Fauna",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Gilded War Hammer": {
     "name": "Gilded War Hammer",
     "type": "Battle Magic",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Gingerbread Korbat": {
     "name": "Gingerbread Korbat",
     "type": "Candy",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Glowing Jelly": {
     "name": "Glowing Jelly",
     "type": "Jelly Food",
-    "quantity": 2
+    "quantity": 2,
+    "price": null
   },
   "Glowing Meteor Rock": {
     "name": "Glowing Meteor Rock",
     "type": "Space Battle",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Glowing Top": {
     "name": "Glowing Top",
     "type": "Toy",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Glubgar Wig": {
     "name": "Glubgar Wig",
     "type": "Clothes",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Gobi Fruit": {
     "name": "Gobi Fruit",
     "type": "Desert Food",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Gold Trimmed Tunic": {
     "name": "Gold Trimmed Tunic",
     "type": "Brightvale Armour",
-    "quantity": 5
+    "quantity": 5,
+    "price": null
   },
   "Golden Elephante Morphing Potion": {
     "name": "Golden Elephante Morphing Potion",
     "type": "Magic Item",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Golden Mechafish": {
     "name": "Golden Mechafish",
     "type": "Toy",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Gooey Bug Soup": {
     "name": "Gooey Bug Soup",
     "type": "Spooky Food",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Gorunda the Wise": {
     "name": "Gorunda the Wise",
     "type": "Collectable Card",
-    "quantity": 3
+    "quantity": 3,
+    "price": null
   },
   "Grapity Slushie": {
     "name": "Grapity Slushie",
     "type": "Slushie",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Grarrl Saliva Soup": {
     "name": "Grarrl Saliva Soup",
     "type": "Tyrannian Food",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Greeble": {
     "name": "Greeble",
     "type": "Petpet",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Greedy Kadoatie Piggy Bank": {
     "name": "Greedy Kadoatie Piggy Bank",
     "type": "Toy",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Green Apple": {
     "name": "Green Apple",
     "type": "Food",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Green Bike": {
     "name": "Green Bike",
     "type": "Toy",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Green Clam Shell": {
     "name": "Green Clam Shell",
     "type": "Sea Shells",
-    "quantity": 2
+    "quantity": 2,
+    "price": null
   },
   "Green Cyodrake Plushie": {
     "name": "Green Cyodrake Plushie",
     "type": "Plushies",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Green Doughnut": {
     "name": "Green Doughnut",
     "type": "Baked",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Green Evil Fuzzle": {
     "name": "Green Evil Fuzzle",
     "type": "Plushies",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Green Frost Cannon": {
     "name": "Green Frost Cannon",
     "type": "Battle Magic",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Green Grapes": {
     "name": "Green Grapes",
     "type": "Food",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Green Pepper Omelette": {
     "name": "Green Pepper Omelette",
     "type": "Tyrannian Food",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Green Quiggle Plushie": {
     "name": "Green Quiggle Plushie",
     "type": "Plushies",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Green Rocket": {
     "name": "Green Rocket",
     "type": "Battle Magic",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Green Sticky Hand": {
     "name": "Green Sticky Hand",
     "type": "Battle Magic",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Green Tea": {
     "name": "Green Tea",
     "type": "Space Food",
-    "quantity": 2
+    "quantity": 2,
+    "price": null
   },
   "Grenanna": {
     "name": "Grenanna",
     "type": "Brightvale Fruit",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Grey Sea Fern": {
     "name": "Grey Sea Fern",
     "type": "Gardening",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Grobleen Sandwich": {
     "name": "Grobleen Sandwich",
     "type": "Space Food",
-    "quantity": 2
+    "quantity": 2,
+    "price": null
   },
   "Groomable Tonu Doll": {
     "name": "Groomable Tonu Doll",
     "type": "Toy",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Grumblebug Pie": {
     "name": "Grumblebug Pie",
     "type": "Spooky Food",
-    "quantity": 4
+    "quantity": 4,
+    "price": null
   },
   "Grundo Beach Hat": {
     "name": "Grundo Beach Hat",
     "type": "Clothes",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Grundo Stix": {
     "name": "Grundo Stix",
     "type": "Spooky Food",
-    "quantity": 2
+    "quantity": 2,
+    "price": null
   },
   "Gruslen": {
     "name": "Gruslen",
     "type": "Tyrannian Petpet",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Gummy Pirate Candies": {
     "name": "Gummy Pirate Candies",
     "type": "Food",
-    "quantity": 5
+    "quantity": 5,
+    "price": null
   },
   "Gwontek Syrup": {
     "name": "Gwontek Syrup",
     "type": "Medical Cures",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Gypsy Secrets": {
     "name": "Gypsy Secrets",
     "type": "Book",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Hagans Secrets": {
     "name": "Hagans Secrets",
     "type": "Brightvale Books",
-    "quantity": 2
+    "quantity": 2,
+    "price": null
   },
   "Hair Chopsticks": {
     "name": "Hair Chopsticks",
     "type": "Grooming",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Hair Mote": {
     "name": "Hair Mote",
     "type": "Brightvale Motes",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Hairy Snowball": {
     "name": "Hairy Snowball",
     "type": "Ice Crystal",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Half Coconut Shell": {
     "name": "Half Coconut Shell",
     "type": "Island Merchandise",
-    "quantity": 2
+    "quantity": 2,
+    "price": null
   },
   "Half Lime Jelly": {
     "name": "Half Lime Jelly",
     "type": "Jelly Food",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Half-eaten Berry": {
     "name": "Half-eaten Berry",
     "type": "Medieval Food",
-    "quantity": 3
+    "quantity": 3,
+    "price": null
   },
   "Ham and Cheese Omelette": {
     "name": "Ham and Cheese Omelette",
     "type": "Tyrannian Food",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Hand Painted Scimitar": {
     "name": "Hand Painted Scimitar",
     "type": "Desert Weapon",
-    "quantity": 4
+    "quantity": 4,
+    "price": null
   },
   "Handful of Asparagus": {
     "name": "Handful of Asparagus",
     "type": "Gift",
-    "quantity": 3
+    "quantity": 3,
+    "price": null
   },
   "Hannah Bobblehead": {
     "name": "Hannah Bobblehead",
     "type": "Toy",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Happy Chia Mask": {
     "name": "Happy Chia Mask",
     "type": "Toy",
-    "quantity": 2
+    "quantity": 2,
+    "price": null
   },
   "Happy Face Latte": {
     "name": "Happy Face Latte",
     "type": "Coffee",
-    "quantity": 2
+    "quantity": 2,
+    "price": null
   },
   "Happy Holidays Formation Portrait": {
     "name": "Happy Holidays Formation Portrait",
     "type": "Gift",
-    "quantity": 2
+    "quantity": 2,
+    "price": null
   },
   "Happy Wocky Tails": {
     "name": "Happy Wocky Tails",
     "type": "Book",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Har Codestone": {
     "name": "Har Codestone",
     "type": "Special",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Haunted Hummus": {
     "name": "Haunted Hummus",
     "type": "Spooky Food",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Headless Von Roo Plushie": {
     "name": "Headless Von Roo Plushie",
     "type": "Plushies",
-    "quantity": 2
+    "quantity": 2,
+    "price": null
   },
   "Healing Potion I": {
     "name": "Healing Potion I",
     "type": "Healing Springs",
-    "quantity": 3
+    "quantity": 3,
+    "price": null
   },
   "Healing Potion II": {
     "name": "Healing Potion II",
     "type": "Healing Springs",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Healing Potion III": {
     "name": "Healing Potion III",
     "type": "Healing Springs",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Healing Potion V": {
     "name": "Healing Potion V",
     "type": "Healing Springs",
-    "quantity": 4
+    "quantity": 4,
+    "price": null
   },
   "Healing Potion VI": {
     "name": "Healing Potion VI",
     "type": "Healing Springs",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Healing Potion VIII": {
     "name": "Healing Potion VIII",
     "type": "Healing Springs",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Healing Potion X": {
     "name": "Healing Potion X",
     "type": "Healing Springs",
-    "quantity": 2
+    "quantity": 2,
+    "price": null
   },
   "Healing Potion XII": {
     "name": "Healing Potion XII",
     "type": "Healing Springs",
-    "quantity": 2
+    "quantity": 2,
+    "price": null
   },
   "Healing Potion XIII": {
     "name": "Healing Potion XIII",
     "type": "Healing Springs",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Healing Potion XIX": {
     "name": "Healing Potion XIX",
     "type": "Healing Springs",
-    "quantity": 3
+    "quantity": 3,
+    "price": null
   },
   "Healing Potion XV": {
     "name": "Healing Potion XV",
     "type": "Healing Springs",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Healing Potion XVIII": {
     "name": "Healing Potion XVIII",
     "type": "Healing Springs",
-    "quantity": 4
+    "quantity": 4,
+    "price": null
   },
   "Healing Springs Residue": {
     "name": "Healing Springs Residue",
     "type": "Magic Item",
-    "quantity": 3
+    "quantity": 3,
+    "price": null
   },
   "Helm-mounted Laser Beam": {
     "name": "Helm-mounted Laser Beam",
     "type": "Space Battle",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Herbal Shampoo": {
     "name": "Herbal Shampoo",
     "type": "Grooming",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Hifflo Yoyo": {
     "name": "Hifflo Yoyo",
     "type": "Toy",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Hissi Stained Glass Window": {
     "name": "Hissi Stained Glass Window",
     "type": "Brightvale Windows",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Holiday Hoop": {
     "name": "Holiday Hoop",
     "type": "Toy",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Holiday Shell Candy": {
     "name": "Holiday Shell Candy",
     "type": "Candy",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Holiday Themed Pirate Ship": {
     "name": "Holiday Themed Pirate Ship",
     "type": "Toy",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Holiday Tree Appetizer": {
     "name": "Holiday Tree Appetizer",
     "type": "Refreshments",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Homemade Gooseberry Jam": {
     "name": "Homemade Gooseberry Jam",
     "type": "Food",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Hot Burnumup": {
     "name": "Hot Burnumup",
     "type": "Tyrannian Food",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Hypnotic Scroll": {
     "name": "Hypnotic Scroll",
     "type": "Brightvale Scroll",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "I Am Malum: The Story of the Misunderstood Lupe": {
     "name": "I Am Malum: The Story of the Misunderstood Lupe",
     "type": "Book",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "I Screwed Up Gift Basket": {
     "name": "I Screwed Up Gift Basket",
     "type": "Gift",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Ice Cream Machine Gloves": {
     "name": "Ice Cream Machine Gloves",
     "type": "Clothes",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Ice Faerie Chia Plushie": {
     "name": "Ice Faerie Chia Plushie",
     "type": "Plushies",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Ice Mirror": {
     "name": "Ice Mirror",
     "type": "Ice Crystal",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Ice Mote": {
     "name": "Ice Mote",
     "type": "Brightvale Motes",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Ice Shield": {
     "name": "Ice Shield",
     "type": "Ice Crystal",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Iced Again, Tale of an Ice Caves Explorer": {
     "name": "Iced Again, Tale of an Ice Caves Explorer",
     "type": "Book",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Iced Borovan": {
     "name": "Iced Borovan",
     "type": "Food",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Icy Eye Snowball": {
     "name": "Icy Eye Snowball",
     "type": "Battle Magic",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Icy Snowager Noodles": {
     "name": "Icy Snowager Noodles",
     "type": "Food",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Imposter Apple Collectable Charm": {
     "name": "Imposter Apple Collectable Charm",
     "type": "Toy",
-    "quantity": 2
+    "quantity": 2,
+    "price": null
   },
   "Inferno Mollusk": {
     "name": "Inferno Mollusk",
     "type": "Food",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Infested Peach": {
     "name": "Infested Peach",
     "type": "Gross Food",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Inflatable Bouncy Pirate Ship": {
     "name": "Inflatable Bouncy Pirate Ship",
     "type": "Gardening",
-    "quantity": 5
+    "quantity": 5,
+    "price": null
   },
   "Intergalactic Spiced Beans": {
     "name": "Intergalactic Spiced Beans",
     "type": "Space Food",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Island Petpet Paint Brush": {
     "name": "Island Petpet Paint Brush",
     "type": "Special",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Island Skeith Plushie": {
     "name": "Island Skeith Plushie",
     "type": "Plushies",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Jelly Bean Filled Negg": {
     "name": "Jelly Bean Filled Negg",
     "type": "Candy",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Jhudora Rotten Negg": {
     "name": "Jhudora Rotten Negg",
     "type": "Food",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Jhudoras Snowball": {
     "name": "Jhudoras Snowball",
     "type": "Battle Magic",
-    "quantity": 2
+    "quantity": 2,
+    "price": null
   },
   "Joint of Ham": {
     "name": "Joint of Ham",
     "type": "Food",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Jubjub Warrior Wig": {
     "name": "Jubjub Warrior Wig",
     "type": "Clothes",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Juicy Elixir": {
     "name": "Juicy Elixir",
     "type": "Magic Item",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Juppie Omelette": {
     "name": "Juppie Omelette",
     "type": "Tyrannian Food",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Kacheekers Plushie": {
     "name": "Kacheekers Plushie",
     "type": "Plushies",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Karate for Beginners": {
     "name": "Karate for Beginners",
     "type": "Book",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Kass Basher Paper Toy": {
     "name": "Kass Basher Paper Toy",
     "type": "Toy",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Kau Kau Farm Milk": {
     "name": "Kau Kau Farm Milk",
     "type": "Special",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Keep the Cookie Jar Full!": {
     "name": "Keep the Cookie Jar Full!",
     "type": "Book",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Keno Egg Salad Sandwich": {
     "name": "Keno Egg Salad Sandwich",
     "type": "Tyrannian Food",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Kiko Clay Sculpture Set": {
     "name": "Kiko Clay Sculpture Set",
     "type": "Toy",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Kiko Explorer Plushie": {
     "name": "Kiko Explorer Plushie",
     "type": "Plushies",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Kiko Food": {
     "name": "Kiko Food",
     "type": "Book",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Kiko Gnome-in-the-box": {
     "name": "Kiko Gnome-in-the-box",
     "type": "Toy",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Knowing Moehogs": {
     "name": "Knowing Moehogs",
     "type": "Book",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Krawk Mariachi Trousers": {
     "name": "Krawk Mariachi Trousers",
     "type": "Clothes",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Krawk Pirate Ship": {
     "name": "Krawk Pirate Ship",
     "type": "Toy",
-    "quantity": 9
+    "quantity": 9,
+    "price": null
   },
   "Kreludan Defender Plushie": {
     "name": "Kreludan Defender Plushie",
     "type": "Plushies",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Landfish": {
     "name": "Landfish",
     "type": "Food",
-    "quantity": 3
+    "quantity": 3,
+    "price": null
   },
   "Larfle": {
     "name": "Larfle",
     "type": "Tropical Food",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Large Giant Squid": {
     "name": "Large Giant Squid",
     "type": "Food",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Large Grundo Toe With Lint Side Order": {
     "name": "Large Grundo Toe With Lint Side Order",
     "type": "Spooky Food",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Large Metal Shield": {
     "name": "Large Metal Shield",
     "type": "Defence Magic",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Lavaball": {
     "name": "Lavaball",
     "type": "Battle Magic",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Leaded Earth Vial": {
     "name": "Leaded Earth Vial",
     "type": "Brightvale Potions",
-    "quantity": 3
+    "quantity": 3,
+    "price": null
   },
   "Learn To Play Jazz": {
     "name": "Learn To Play Jazz",
     "type": "Book",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Lemon Faerie Mousse": {
     "name": "Lemon Faerie Mousse",
     "type": "Faerie Food",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Lemon Jelly": {
     "name": "Lemon Jelly",
     "type": "Jelly Food",
-    "quantity": 4
+    "quantity": 4,
+    "price": null
   },
   "Lemon Sprinkle Doughnut": {
     "name": "Lemon Sprinkle Doughnut",
     "type": "Baked",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Lenny Sorceress Bottom": {
     "name": "Lenny Sorceress Bottom",
     "type": "Clothes",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Lenny Sorceress Top": {
     "name": "Lenny Sorceress Top",
     "type": "Clothes",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Lentil Pie": {
     "name": "Lentil Pie",
     "type": "Healthy Food",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Lesser Spotted Fish": {
     "name": "Lesser Spotted Fish",
     "type": "Food",
-    "quantity": 3
+    "quantity": 3,
+    "price": null
   },
   "Light Acara Hood": {
     "name": "Light Acara Hood",
     "type": "Defence Magic",
-    "quantity": 4
+    "quantity": 4,
+    "price": null
   },
   "Light Speed Made Easy": {
     "name": "Light Speed Made Easy",
     "type": "Booktastic Book",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Lime Jelly": {
     "name": "Lime Jelly",
     "type": "Jelly Food",
-    "quantity": 2
+    "quantity": 2,
+    "price": null
   },
   "Lime Trifle": {
     "name": "Lime Trifle",
     "type": "Jelly Food",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Linae Stamp": {
     "name": "Linae Stamp",
     "type": "Stamp",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Lint Jelly": {
     "name": "Lint Jelly",
     "type": "Jelly Food",
-    "quantity": 6
+    "quantity": 6,
+    "price": null
   },
   "Liobits": {
     "name": "Liobits",
@@ -2297,1887 +2755,2264 @@
   "Little Fishy Omelette": {
     "name": "Little Fishy Omelette",
     "type": "Tyrannian Food",
-    "quantity": 3
+    "quantity": 3,
+    "price": null
   },
   "Little Timmy Battlecard": {
     "name": "Little Timmy Battlecard",
     "type": "Battle Magic",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Lizark Plushie": {
     "name": "Lizark Plushie",
     "type": "Plushies",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Lock Picking Kit": {
     "name": "Lock Picking Kit",
     "type": "Gift",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Lost Desert Architecture": {
     "name": "Lost Desert Architecture",
     "type": "Desert Scroll",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Lotus Leaves": {
     "name": "Lotus Leaves",
     "type": "Remarkable Restoratives",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Lu Codestone": {
     "name": "Lu Codestone",
     "type": "Special",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Lucky Bone Necklace": {
     "name": "Lucky Bone Necklace",
     "type": "Toy",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Magenorb Juice": {
     "name": "Magenorb Juice",
     "type": "Brightvale Fruit",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Maggot Stew": {
     "name": "Maggot Stew",
     "type": "Gross Food",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Magic Crystalline Kelp": {
     "name": "Magic Crystalline Kelp",
     "type": "Gardening",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Magic Wand": {
     "name": "Magic Wand",
     "type": "Magic Item",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Magical Healing Potion": {
     "name": "Magical Healing Potion",
     "type": "Altadorian Magic",
-    "quantity": 2
+    "quantity": 2,
+    "price": null
   },
   "Mali River of Meridell": {
     "name": "Mali River of Meridell",
     "type": "Book",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Manacle Mace": {
     "name": "Manacle Mace",
     "type": "Haunted Weaponry",
-    "quantity": 5
+    "quantity": 5,
+    "price": null
   },
   "Mango": {
     "name": "Mango",
     "type": "Food",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Maraquan Charger Plushie": {
     "name": "Maraquan Charger Plushie",
     "type": "Plushies",
-    "quantity": 4
+    "quantity": 4,
+    "price": null
   },
   "Maraquan Defenders Stamp": {
     "name": "Maraquan Defenders Stamp",
     "type": "Stamp",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Maraquan Faerie Tales": {
     "name": "Maraquan Faerie Tales",
     "type": "Book",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Maraquan Grackle Bug": {
     "name": "Maraquan Grackle Bug",
     "type": "Desert Petpet",
-    "quantity": 2
+    "quantity": 2,
+    "price": null
   },
   "Maraquan JubJub Ball": {
     "name": "Maraquan JubJub Ball",
     "type": "Toy",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Marshmallow Omelette": {
     "name": "Marshmallow Omelette",
     "type": "Tyrannian Food",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Mastering Disguises": {
     "name": "Mastering Disguises",
     "type": "Book",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Mayo-Doused Batter-Fried Grackle Bugs with Honey Walnuts": {
     "name": "Mayo-Doused Batter-Fried Grackle Bugs with Honey Walnuts",
     "type": "Gross Food",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Meaty Pot Pie": {
     "name": "Meaty Pot Pie",
     "type": "Food",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "MechaBerry Bomb": {
     "name": "MechaBerry Bomb",
     "type": "Space Battle",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Meerca Friends": {
     "name": "Meerca Friends",
     "type": "Book",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Meerca Maid Shoes": {
     "name": "Meerca Maid Shoes",
     "type": "Clothes",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Mega Force Ice Glove": {
     "name": "Mega Force Ice Glove",
     "type": "Ice Crystal",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Melowhirl": {
     "name": "Melowhirl",
     "type": "Tropical Food",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Metallic Mote": {
     "name": "Metallic Mote",
     "type": "Brightvale Motes",
-    "quantity": 3
+    "quantity": 3,
+    "price": null
   },
   "Meteor Bites": {
     "name": "Meteor Bites",
     "type": "Space Food",
-    "quantity": 2
+    "quantity": 2,
+    "price": null
   },
   "Meteor Bomb": {
     "name": "Meteor Bomb",
     "type": "Space Battle",
-    "quantity": 3
+    "quantity": 3,
+    "price": null
   },
   "Mibblie": {
     "name": "Mibblie",
     "type": "Robot Petpet",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Minor Healing Ointment": {
     "name": "Minor Healing Ointment",
     "type": "Medical Cures",
-    "quantity": 2
+    "quantity": 2,
+    "price": null
   },
   "Mint Ice Cream": {
     "name": "Mint Ice Cream",
     "type": "Food",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Mint Jelly": {
     "name": "Mint Jelly",
     "type": "Jelly Food",
-    "quantity": 6
+    "quantity": 6,
+    "price": null
   },
   "Moehog Card King Sword": {
     "name": "Moehog Card King Sword",
     "type": "Clothes",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Mollusc Surprise": {
     "name": "Mollusc Surprise",
     "type": "Tyrannian Food",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Money Tree Window": {
     "name": "Money Tree Window",
     "type": "Brightvale Windows",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Moon Paving Stone": {
     "name": "Moon Paving Stone",
     "type": "Gardening",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Moon and Stars Facepaint": {
     "name": "Moon and Stars Facepaint",
     "type": "Neocash",
-    "quantity": 1
+    "quantity": 1,
+    "price": 100
   },
   "Moonlit Esophagor Stamp": {
     "name": "Moonlit Esophagor Stamp",
     "type": "Stamp",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Mootix Pull Along Toy": {
     "name": "Mootix Pull Along Toy",
     "type": "Toy",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Mossy Rock": {
     "name": "Mossy Rock",
     "type": "Gardening",
-    "quantity": 2
+    "quantity": 2,
+    "price": null
   },
   "Mouldy Left-Overs": {
     "name": "Mouldy Left-Overs",
     "type": "Gross Food",
-    "quantity": 2
+    "quantity": 2,
+    "price": null
   },
   "Mouldy Pencil Case": {
     "name": "Mouldy Pencil Case",
     "type": "School",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Mouldy Petpet Bed": {
     "name": "Mouldy Petpet Bed",
     "type": "Petpet Supplies",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Mud Mote": {
     "name": "Mud Mote",
     "type": "Brightvale Motes",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Mud n Mayo Dip": {
     "name": "Mud n Mayo Dip",
     "type": "Gross Food",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Mummified Jelly": {
     "name": "Mummified Jelly",
     "type": "Jelly Food",
-    "quantity": 4
+    "quantity": 4,
+    "price": null
   },
   "Mummified Pepper": {
     "name": "Mummified Pepper",
     "type": "Desert Food",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Mummy Intruder Window": {
     "name": "Mummy Intruder Window",
     "type": "Brightvale Windows",
-    "quantity": 2
+    "quantity": 2,
+    "price": null
   },
   "Musho Mushy Peas": {
     "name": "Musho Mushy Peas",
     "type": "Food",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "My 1st Shovel": {
     "name": "My 1st Shovel",
     "type": "Book",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Myncies In A Bucket": {
     "name": "Myncies In A Bucket",
     "type": "Toy",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Mystery Island Drum": {
     "name": "Mystery Island Drum",
     "type": "Island Merchandise",
-    "quantity": 5
+    "quantity": 5,
+    "price": null
   },
   "Mystery Island Pop-Up Book": {
     "name": "Mystery Island Pop-Up Book",
     "type": "Book",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Mystery Of The Kougra Paw": {
     "name": "Mystery Of The Kougra Paw",
     "type": "Book",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Mystic Trick-or-Treat Bag": {
     "name": "Mystic Trick-or-Treat Bag",
     "type": "Toy",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "N-4 Info Retrieval Bot": {
     "name": "N-4 Info Retrieval Bot",
     "type": "Robot Petpet",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Nacho Cheese Stuffed Hot Dog": {
     "name": "Nacho Cheese Stuffed Hot Dog",
     "type": "Hot Dog",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Native Mask": {
     "name": "Native Mask",
     "type": "Island Merchandise",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Nautilus": {
     "name": "Nautilus",
     "type": "Tyrannian Food",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Neocrunch Cereal": {
     "name": "Neocrunch Cereal",
     "type": "Food",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Neoflakes Cake": {
     "name": "Neoflakes Cake",
     "type": "Food",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Neopian Times Issue 3": {
     "name": "Neopian Times Issue 3",
     "type": "Book",
-    "quantity": 2
+    "quantity": 2,
+    "price": null
   },
   "Neosaurus Tail": {
     "name": "Neosaurus Tail",
     "type": "Tyrannian Food",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Neovian Blumaroo Gentleman Belt": {
     "name": "Neovian Blumaroo Gentleman Belt",
     "type": "Neovian Attire",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Neovian Darkfall": {
     "name": "Neovian Darkfall",
     "type": "Neovian Press",
-    "quantity": 3
+    "quantity": 3,
+    "price": null
   },
   "New Year Yurble Dragon": {
     "name": "New Year Yurble Dragon",
     "type": "Toy",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Night Music": {
     "name": "Night Music",
     "type": "Neocash",
-    "quantity": 1
+    "quantity": 1,
+    "price": 100
   },
   "Nimmo Lost Desert Urchin Shoes": {
     "name": "Nimmo Lost Desert Urchin Shoes",
     "type": "Clothes",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Niptor Plushie": {
     "name": "Niptor Plushie",
     "type": "Plushies",
-    "quantity": 8
+    "quantity": 8,
+    "price": null
   },
   "Noak": {
     "name": "Noak",
     "type": "Maraquan Petpets",
-    "quantity": 3
+    "quantity": 3,
+    "price": null
   },
   "Non-Sticky Sticky Hand": {
     "name": "Non-Sticky Sticky Hand",
     "type": "Toy",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Nova": {
     "name": "Nova",
     "type": "Magic Item",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Nupie": {
     "name": "Nupie",
     "type": "Maraquan Petpets",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Nutritional Blockberry": {
     "name": "Nutritional Blockberry",
     "type": "Medieval Food",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Nuts and Bolts Jelly": {
     "name": "Nuts and Bolts Jelly",
     "type": "Jelly Food",
-    "quantity": 3
+    "quantity": 3,
+    "price": null
   },
   "Ocean Crossing Flotsam Board Game": {
     "name": "Ocean Crossing Flotsam Board Game",
     "type": "Toy",
-    "quantity": 7
+    "quantity": 7,
+    "price": null
   },
   "Official Ghoul Catchers Stamp": {
     "name": "Official Ghoul Catchers Stamp",
     "type": "Stamp",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Oil and Grease Jelly": {
     "name": "Oil and Grease Jelly",
     "type": "Jelly Food",
-    "quantity": 2
+    "quantity": 2,
+    "price": null
   },
   "Old Boot": {
     "name": "Old Boot",
     "type": "Special",
-    "quantity": 2
+    "quantity": 2,
+    "price": 150
   },
   "Old Box Fort": {
     "name": "Old Box Fort",
     "type": "Toy",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Old Fashioned Rocking Chair": {
     "name": "Old Fashioned Rocking Chair",
     "type": "Gift",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Old Rotten Left Boot": {
     "name": "Old Rotten Left Boot",
     "type": "Special",
-    "quantity": 4
+    "quantity": 4,
+    "price": null
   },
   "Old Rotten Left Sandal": {
     "name": "Old Rotten Left Sandal",
     "type": "Special",
-    "quantity": 6
+    "quantity": 6,
+    "price": null
   },
   "Old Rotten Left Shoe": {
     "name": "Old Rotten Left Shoe",
     "type": "Special",
-    "quantity": 4
+    "quantity": 4,
+    "price": null
   },
   "Old Rotten Right Boot": {
     "name": "Old Rotten Right Boot",
     "type": "Special",
-    "quantity": 6
+    "quantity": 6,
+    "price": null
   },
   "Old Rotten Right Sandal": {
     "name": "Old Rotten Right Sandal",
     "type": "Special",
-    "quantity": 6
+    "quantity": 6,
+    "price": null
   },
   "Old Rotten Right Shoe": {
     "name": "Old Rotten Right Shoe",
     "type": "Special",
-    "quantity": 6
+    "quantity": 6,
+    "price": null
   },
   "Omelette Shield": {
     "name": "Omelette Shield",
     "type": "Tyrannian Weaponry",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "On Gelert Pond": {
     "name": "On Gelert Pond",
     "type": "Book",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "One Dubloon Coin": {
     "name": "One Dubloon Coin",
     "type": "Special",
-    "quantity": 9
+    "quantity": 9,
+    "price": null
   },
   "Onion Sorbet": {
     "name": "Onion Sorbet",
     "type": "Gross Food",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Orange Bori Action Figure": {
     "name": "Orange Bori Action Figure",
     "type": "Toy",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Orange Chicken": {
     "name": "Orange Chicken",
     "type": "Food",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Orange Koi Morphing Potion": {
     "name": "Orange Koi Morphing Potion",
     "type": "Magic Item",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Orange Scorchio Cookie": {
     "name": "Orange Scorchio Cookie",
     "type": "Baked",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Orange": {
     "name": "Orange",
     "type": "Food",
-    "quantity": 1
+    "quantity": 1,
+    "price": 100
   },
   "Organ": {
     "name": "Organ",
     "type": "Instrument",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Organic Dill Pickles": {
     "name": "Organic Dill Pickles",
     "type": "Healthy Food",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Organic Peanut": {
     "name": "Organic Peanut",
     "type": "Healthy Food",
-    "quantity": 4
+    "quantity": 4,
+    "price": null
   },
   "Origami Uniocto": {
     "name": "Origami Uniocto",
     "type": "Toy",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Orn Codestone Plushie": {
     "name": "Orn Codestone Plushie",
     "type": "Plushies",
-    "quantity": 2
+    "quantity": 2,
+    "price": null
   },
   "Orn Codestone": {
     "name": "Orn Codestone",
     "type": "Special",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Palm Fan": {
     "name": "Palm Fan",
     "type": "Island Merchandise",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Pant Devil Pinata": {
     "name": "Pant Devil Pinata",
     "type": "Furniture",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Parchment Fruit": {
     "name": "Parchment Fruit",
     "type": "Brightvale Fruit",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Passionberry Jam": {
     "name": "Passionberry Jam",
     "type": "Brightvale Fruit",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Pawkeet Pinata": {
     "name": "Pawkeet Pinata",
     "type": "Toy",
-    "quantity": 2
+    "quantity": 2,
+    "price": null
   },
   "Peach Snowball": {
     "name": "Peach Snowball",
     "type": "Battle Magic",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Peanut Butter Jelly": {
     "name": "Peanut Butter Jelly",
     "type": "Jelly Food",
-    "quantity": 3
+    "quantity": 3,
+    "price": null
   },
   "Peanut": {
     "name": "Peanut",
     "type": "Food",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Pear Jelly": {
     "name": "Pear Jelly",
     "type": "Jelly Food",
-    "quantity": 4
+    "quantity": 4,
+    "price": null
   },
   "Pear": {
     "name": "Pear",
     "type": "Food",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Pesto Banana Burger": {
     "name": "Pesto Banana Burger",
     "type": "Gross Food",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Petpet Laboratory Map": {
     "name": "Petpet Laboratory Map",
     "type": "Special",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Petrified Bone": {
     "name": "Petrified Bone",
     "type": "Special",
-    "quantity": 2
+    "quantity": 2,
+    "price": null
   },
   "Pick Your Own Foreground": {
     "name": "Pick Your Own Foreground",
     "type": "Ugga Shinies",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Pickled Leeches": {
     "name": "Pickled Leeches",
     "type": "Gross Food",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Pickled Olives": {
     "name": "Pickled Olives",
     "type": "Island Merchandise",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Piece of Wool": {
     "name": "Piece of Wool",
     "type": "Special",
-    "quantity": 3
+    "quantity": 3,
+    "price": null
   },
   "Pile of Bones": {
     "name": "Pile of Bones",
     "type": "Toy",
-    "quantity": 2
+    "quantity": 2,
+    "price": null
   },
   "Pile of Dung": {
     "name": "Pile of Dung",
     "type": "Special",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Pimplepepper": {
     "name": "Pimplepepper",
     "type": "Tropical Food",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Pinixy Keyring": {
     "name": "Pinixy Keyring",
     "type": "Toy",
-    "quantity": 2
+    "quantity": 2,
+    "price": null
   },
   "Pink Chomby Bouncy Ball": {
     "name": "Pink Chomby Bouncy Ball",
     "type": "Toy",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Pink Doughnut": {
     "name": "Pink Doughnut",
     "type": "Baked",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Pirate Aisha Plushie": {
     "name": "Pirate Aisha Plushie",
     "type": "Plushies",
-    "quantity": 5
+    "quantity": 5,
+    "price": null
   },
   "Pirate Alkenore": {
     "name": "Pirate Alkenore",
     "type": "Faerie Petpet",
-    "quantity": 2
+    "quantity": 2,
+    "price": null
   },
   "Pirate Attack Stamp": {
     "name": "Pirate Attack Stamp",
     "type": "Stamp",
-    "quantity": 5
+    "quantity": 5,
+    "price": null
   },
   "Pirate Baby Fireball": {
     "name": "Pirate Baby Fireball",
     "type": "Spooky Petpet",
-    "quantity": 2
+    "quantity": 2,
+    "price": null
   },
   "Pirate Charnie": {
     "name": "Pirate Charnie",
     "type": "Robot Petpet",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Pirate Dua": {
     "name": "Pirate Dua",
     "type": "Desert Petpet",
-    "quantity": 3
+    "quantity": 3,
+    "price": null
   },
   "Pirate Earrings": {
     "name": "Pirate Earrings",
     "type": "Gift",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Pirate Eyrie Morphing Potion": {
     "name": "Pirate Eyrie Morphing Potion",
     "type": "Magic Item",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Pirate Flishy": {
     "name": "Pirate Flishy",
     "type": "Petpet",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Pirate Hissi Plushie": {
     "name": "Pirate Hissi Plushie",
     "type": "Plushies",
-    "quantity": 2
+    "quantity": 2,
+    "price": null
   },
   "Pirate Hook Candy Cane": {
     "name": "Pirate Hook Candy Cane",
     "type": "Candy",
-    "quantity": 5
+    "quantity": 5,
+    "price": null
   },
   "Pirate Mynci Plushie": {
     "name": "Pirate Mynci Plushie",
     "type": "Plushies",
-    "quantity": 2
+    "quantity": 2,
+    "price": null
   },
   "Pirate Ogrin Plushie": {
     "name": "Pirate Ogrin Plushie",
     "type": "Plushies",
-    "quantity": 5
+    "quantity": 5,
+    "price": null
   },
   "Pirate Petpet Paint Brush": {
     "name": "Pirate Petpet Paint Brush",
     "type": "Special",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Pirate Potato Crisps": {
     "name": "Pirate Potato Crisps",
     "type": "Food",
-    "quantity": 4
+    "quantity": 4,
+    "price": null
   },
   "Pirate Small Talk": {
     "name": "Pirate Small Talk",
     "type": "Book",
-    "quantity": 2
+    "quantity": 2,
+    "price": null
   },
   "Pirate Tonu Plushie": {
     "name": "Pirate Tonu Plushie",
     "type": "Plushies",
-    "quantity": 9
+    "quantity": 9,
+    "price": null
   },
   "Pirate Usuki Play Set": {
     "name": "Pirate Usuki Play Set",
     "type": "Usuki Doll",
-    "quantity": 3
+    "quantity": 3,
+    "price": null
   },
   "Pirate Xweetok Plushie": {
     "name": "Pirate Xweetok Plushie",
     "type": "Plushies",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Pizza Omelette": {
     "name": "Pizza Omelette",
     "type": "Tyrannian Food",
-    "quantity": 5
+    "quantity": 5,
+    "price": null
   },
   "Plain Mashed Potato": {
     "name": "Plain Mashed Potato",
     "type": "Food",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Plain Omelette": {
     "name": "Plain Omelette",
     "type": "Tyrannian Food",
-    "quantity": 2
+    "quantity": 2,
+    "price": null
   },
   "Plastic Ring of Sloth": {
     "name": "Plastic Ring of Sloth",
     "type": "Gift",
-    "quantity": 2
+    "quantity": 2,
+    "price": null
   },
   "Plate of Cookies": {
     "name": "Plate of Cookies",
     "type": "Gift",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Plate of Unidentifiable Meat": {
     "name": "Plate of Unidentifiable Meat",
     "type": "Space Food",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Plateau Berries": {
     "name": "Plateau Berries",
     "type": "Tyrannian Food",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Platinum Nerkmid XX": {
     "name": "Platinum Nerkmid XX",
     "type": "Special",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Pleto Melon": {
     "name": "Pleto Melon",
     "type": "Desert Food",
-    "quantity": 3
+    "quantity": 3,
+    "price": null
   },
   "Plushie Fungus": {
     "name": "Plushie Fungus",
     "type": "Gardening",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Plushie Guitar": {
     "name": "Plushie Guitar",
     "type": "Instrument",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Poems to Rot Your Heart": {
     "name": "Poems to Rot Your Heart",
     "type": "Book",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Poison Snowball": {
     "name": "Poison Snowball",
     "type": "Battle Magic",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Poisonous Jelly": {
     "name": "Poisonous Jelly",
     "type": "Jelly Food",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Polka Dot Guitar": {
     "name": "Polka Dot Guitar",
     "type": "Instrument",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Poogle Shish Kabob": {
     "name": "Poogle Shish Kabob",
     "type": "Tyrannian Food",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Potato Yo-Yo": {
     "name": "Potato Yo-Yo",
     "type": "Toy",
-    "quantity": 4
+    "quantity": 4,
+    "price": null
   },
   "Potgatkerchi Plushie": {
     "name": "Potgatkerchi Plushie",
     "type": "Plushies",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Pottery Shard Dagger": {
     "name": "Pottery Shard Dagger",
     "type": "Desert Weapon",
-    "quantity": 3
+    "quantity": 3,
+    "price": null
   },
   "Pound Cake and Frosting Sandwich": {
     "name": "Pound Cake and Frosting Sandwich",
     "type": "Gross Food",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Present Blocks": {
     "name": "Present Blocks",
     "type": "Toy",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Pretty Bouquet": {
     "name": "Pretty Bouquet",
     "type": "Gift",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Pretty Pink Flower Hat": {
     "name": "Pretty Pink Flower Hat",
     "type": "Clothes",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Prickly Potion": {
     "name": "Prickly Potion",
     "type": "Brightvale Potions",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Prismatic Sea Fern": {
     "name": "Prismatic Sea Fern",
     "type": "Gardening",
-    "quantity": 2
+    "quantity": 2,
+    "price": null
   },
   "Proto-force 5000 Helmet": {
     "name": "Proto-force 5000 Helmet",
     "type": "Space Defence",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Psychic Usuki Set": {
     "name": "Psychic Usuki Set",
     "type": "Usuki Doll",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Pteri Spaghetti": {
     "name": "Pteri Spaghetti",
     "type": "Food",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Pull Along Peophin": {
     "name": "Pull Along Peophin",
     "type": "Toy",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Pumpkin Lid Hat": {
     "name": "Pumpkin Lid Hat",
     "type": "Clothes",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Puntec Extract": {
     "name": "Puntec Extract",
     "type": "Medical Cures",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Puntec Fruit": {
     "name": "Puntec Fruit",
     "type": "Desert Food",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Purple Negg": {
     "name": "Purple Negg",
     "type": "Food",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Purple Scallop Shell": {
     "name": "Purple Scallop Shell",
     "type": "Sea Shells",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Pygui Hand Puppet": {
     "name": "Pygui Hand Puppet",
     "type": "Toy",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Pyramid Shaped Gift Bag": {
     "name": "Pyramid Shaped Gift Bag",
     "type": "Toy",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Qando Pita": {
     "name": "Qando Pita",
     "type": "Qasalan Food",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Quetzal": {
     "name": "Quetzal",
     "type": "Geraptiku Petpet",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Radish": {
     "name": "Radish",
     "type": "Food",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Rainbow Dung": {
     "name": "Rainbow Dung",
     "type": "Special",
-    "quantity": 2
+    "quantity": 2,
+    "price": null
   },
   "Rainbow Jelly": {
     "name": "Rainbow Jelly",
     "type": "Jelly Food",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Rainy Day Activities": {
     "name": "Rainy Day Activities",
     "type": "Book",
-    "quantity": 2
+    "quantity": 2,
+    "price": null
   },
   "Ransaurus Steak": {
     "name": "Ransaurus Steak",
     "type": "Tyrannian Food",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Raptraphant Leg": {
     "name": "Raptraphant Leg",
     "type": "Tyrannian Food",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Raspberry Fyora Pop": {
     "name": "Raspberry Fyora Pop",
     "type": "Faerie Food",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Raspberry Jelly": {
     "name": "Raspberry Jelly",
     "type": "Jelly Food",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Raspberry Neocola": {
     "name": "Raspberry Neocola",
     "type": "Food",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Raspberry Scorchio Cookie": {
     "name": "Raspberry Scorchio Cookie",
     "type": "Baked",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Really Ripe Banana": {
     "name": "Really Ripe Banana",
     "type": "Neocash",
-    "quantity": 1
+    "quantity": 1,
+    "price": 10
   },
   "Red Apple": {
     "name": "Red Apple",
     "type": "Food",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Red Blush": {
     "name": "Red Blush",
     "type": "Grooming",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Red Cybunny Plushie": {
     "name": "Red Cybunny Plushie",
     "type": "Plushies",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Red Elephante Plushie": {
     "name": "Red Elephante Plushie",
     "type": "Plushies",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Red Grundo Keyring": {
     "name": "Red Grundo Keyring",
     "type": "Toy",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Red Kazoo": {
     "name": "Red Kazoo",
     "type": "Toy",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Red Koi Keyring": {
     "name": "Red Koi Keyring",
     "type": "Toy",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Red Koi Plushie": {
     "name": "Red Koi Plushie",
     "type": "Plushies",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Red Korbat Keyring": {
     "name": "Red Korbat Keyring",
     "type": "Toy",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Red Lace Necklace": {
     "name": "Red Lace Necklace",
     "type": "Clothes",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Red Ogrin Morphing Potion": {
     "name": "Red Ogrin Morphing Potion",
     "type": "Magic Item",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Red Sausage": {
     "name": "Red Sausage",
     "type": "Gross Food",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Red Shoyru Puzzle": {
     "name": "Red Shoyru Puzzle",
     "type": "Toy",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Red Toadstool": {
     "name": "Red Toadstool",
     "type": "Gift",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Reject Curly Shaped Sand": {
     "name": "Reject Curly Shaped Sand",
     "type": "Island Merchandise",
-    "quantity": 2
+    "quantity": 2,
+    "price": null
   },
   "Reject Cybunny Toy": {
     "name": "Reject Cybunny Toy",
     "type": "Toy",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Reject Flower Shaped Sand": {
     "name": "Reject Flower Shaped Sand",
     "type": "Island Merchandise",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Reject Ornate Rainbow Sand": {
     "name": "Reject Ornate Rainbow Sand",
     "type": "Island Merchandise",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Reject Star Shaped Sand": {
     "name": "Reject Star Shaped Sand",
     "type": "Island Merchandise",
-    "quantity": 2
+    "quantity": 2,
+    "price": null
   },
   "Relic Crown": {
     "name": "Relic Crown",
     "type": "Gift",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Reptillior": {
     "name": "Reptillior",
     "type": "Tyrannian Petpet",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Resewn Shoyru Plushie": {
     "name": "Resewn Shoyru Plushie",
     "type": "Plushies",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Return of Dr. Sloth Valentine Card Set": {
     "name": "Return of Dr. Sloth Valentine Card Set",
     "type": "Gift",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Rhuby Fruit": {
     "name": "Rhuby Fruit",
     "type": "Desert Food",
-    "quantity": 3
+    "quantity": 3,
+    "price": null
   },
   "Rice Omelette": {
     "name": "Rice Omelette",
     "type": "Tyrannian Food",
-    "quantity": 6
+    "quantity": 6,
+    "price": null
   },
   "Ringed Scroll": {
     "name": "Ringed Scroll",
     "type": "Desert Scroll",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Ripped Moehog Plushie": {
     "name": "Ripped Moehog Plushie",
     "type": "Plushies",
-    "quantity": 2
+    "quantity": 2,
+    "price": null
   },
   "Roast Tentacle": {
     "name": "Roast Tentacle",
     "type": "Spooky Food",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Roasted Turnips": {
     "name": "Roasted Turnips",
     "type": "Medieval Food",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Robo Jelly": {
     "name": "Robo Jelly",
     "type": "Jelly Food",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Robot Muffin": {
     "name": "Robot Muffin",
     "type": "Battle Magic",
-    "quantity": 2
+    "quantity": 2,
+    "price": null
   },
   "Robot Rock": {
     "name": "Robot Rock",
     "type": "Booktastic Book",
-    "quantity": 2
+    "quantity": 2,
+    "price": null
   },
   "Roburg 3T3": {
     "name": "Roburg 3T3",
     "type": "Robot Petpet",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Rock Baby Cabbages": {
     "name": "Rock Baby Cabbages",
     "type": "Gross Food",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Rocket Fizzy Drink": {
     "name": "Rocket Fizzy Drink",
     "type": "Space Food",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Rockfish": {
     "name": "Rockfish",
     "type": "Special",
-    "quantity": 5
+    "quantity": 5,
+    "price": null
   },
   "Rocky Ocean Background": {
     "name": "Rocky Ocean Background",
     "type": "Mystical Surroundings",
-    "quantity": 2
+    "quantity": 2,
+    "price": null
   },
   "Rose Petal Crisps": {
     "name": "Rose Petal Crisps",
     "type": "Food",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Rotten Apple": {
     "name": "Rotten Apple",
     "type": "Spooky Food",
-    "quantity": 2
+    "quantity": 2,
+    "price": null
   },
   "Rotten Beetroot": {
     "name": "Rotten Beetroot",
     "type": "Battle Magic",
-    "quantity": 7
+    "quantity": 7,
+    "price": null
   },
   "Rotten Berry": {
     "name": "Rotten Berry",
     "type": "Special",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Rotten Negg and Onion Quesadilla": {
     "name": "Rotten Negg and Onion Quesadilla",
     "type": "Gross Food",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Rotten Omelette Sandwich": {
     "name": "Rotten Omelette Sandwich",
     "type": "Gross Food",
-    "quantity": 6
+    "quantity": 6,
+    "price": null
   },
   "Rotten Omelette": {
     "name": "Rotten Omelette",
     "type": "Tyrannian Food",
-    "quantity": 5
+    "quantity": 5,
+    "price": null
   },
   "Rotten Radish": {
     "name": "Rotten Radish",
     "type": "Battle Magic",
-    "quantity": 2
+    "quantity": 2,
+    "price": null
   },
   "Rotten Tomato Salad": {
     "name": "Rotten Tomato Salad",
     "type": "Gross Food",
-    "quantity": 2
+    "quantity": 2,
+    "price": null
   },
   "Rotten Wormy Apple": {
     "name": "Rotten Wormy Apple",
     "type": "Gross Food",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Rotting Driftwood": {
     "name": "Rotting Driftwood",
     "type": "Special",
-    "quantity": 6
+    "quantity": 6,
+    "price": null
   },
   "Round Sunglasses": {
     "name": "Round Sunglasses",
     "type": "Clothes",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Ruby Encrusted Dragoyle Box": {
     "name": "Ruby Encrusted Dragoyle Box",
     "type": "Gift",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Rule with Wisdom": {
     "name": "Rule with Wisdom",
     "type": "Desert Scroll",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Rustic Wooden Shield": {
     "name": "Rustic Wooden Shield",
     "type": "Defence Magic",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Rusty Old Can": {
     "name": "Rusty Old Can",
     "type": "Special",
-    "quantity": 3
+    "quantity": 3,
+    "price": null
   },
   "Sabre-Xs Egg Salad": {
     "name": "Sabre-Xs Egg Salad",
     "type": "Tyrannian Food",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Sack Plant": {
     "name": "Sack Plant",
     "type": "Tyrannian Food",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Salmon Fishwich": {
     "name": "Salmon Fishwich",
     "type": "Gross Food",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Salt Mote": {
     "name": "Salt Mote",
     "type": "Brightvale Motes",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Samuel No Eyes": {
     "name": "Samuel No Eyes",
     "type": "Collectable Card",
-    "quantity": 2
+    "quantity": 2,
+    "price": null
   },
   "Sand Grapes": {
     "name": "Sand Grapes",
     "type": "Desert Food",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Sand Snowball": {
     "name": "Sand Snowball",
     "type": "Ice Crystal",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Sand Squash": {
     "name": "Sand Squash",
     "type": "Desert Food",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Sand Terrarium": {
     "name": "Sand Terrarium",
     "type": "Gift",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Sandals": {
     "name": "Sandals",
     "type": "Island Merchandise",
-    "quantity": 2
+    "quantity": 2,
+    "price": null
   },
   "Sandy Body Wash": {
     "name": "Sandy Body Wash",
     "type": "Grooming",
-    "quantity": 2
+    "quantity": 2,
+    "price": null
   },
   "Sapphire Encrusted Dragoyle Box": {
     "name": "Sapphire Encrusted Dragoyle Box",
     "type": "Gift",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Sausage Omelette": {
     "name": "Sausage Omelette",
     "type": "Tyrannian Food",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Sausage and Pepperoni Omelette": {
     "name": "Sausage and Pepperoni Omelette",
     "type": "Tyrannian Food",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Sauteed Space Rock": {
     "name": "Sauteed Space Rock",
     "type": "Space Food",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Scarab Ring": {
     "name": "Scarab Ring",
     "type": "Desert Weapon",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Scary Soup": {
     "name": "Scary Soup",
     "type": "Spooky Food",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Scorched Chomato": {
     "name": "Scorched Chomato",
     "type": "Desert Food",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Scorched Pleto": {
     "name": "Scorched Pleto",
     "type": "Desert Food",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Scorched Suti Fruit": {
     "name": "Scorched Suti Fruit",
     "type": "Desert Food",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Scorched Treasure Scratchcard": {
     "name": "Scorched Treasure Scratchcard",
     "type": "Special",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Scotch Egg": {
     "name": "Scotch Egg",
     "type": "Food",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Scrawnyfish": {
     "name": "Scrawnyfish",
     "type": "Food",
-    "quantity": 3
+    "quantity": 3,
+    "price": null
   },
   "Screlon": {
     "name": "Screlon",
     "type": "Brightvale Fruit",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Scroll of the Sea": {
     "name": "Scroll of the Sea",
     "type": "Brightvale Scroll",
-    "quantity": 5
+    "quantity": 5,
+    "price": null
   },
   "Seaweed Tentacle Kimchee": {
     "name": "Seaweed Tentacle Kimchee",
     "type": "Exotic Foods",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Seedless Skeem Potion": {
     "name": "Seedless Skeem Potion",
     "type": "Brightvale Potions",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Serf Lens": {
     "name": "Serf Lens",
     "type": "Defence Magic",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Shell Acara Totem": {
     "name": "Shell Acara Totem",
     "type": "Island Merchandise",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Shenkuu Faerie Cookie Sandwich": {
     "name": "Shenkuu Faerie Cookie Sandwich",
     "type": "Faerie Food",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Shenkuu Firecrackers": {
     "name": "Shenkuu Firecrackers",
     "type": "Toy",
-    "quantity": 5
+    "quantity": 5,
+    "price": null
   },
   "Shenkuu Fried Wrap": {
     "name": "Shenkuu Fried Wrap",
     "type": "Exotic Foods",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Shenkuu Postcard": {
     "name": "Shenkuu Postcard",
     "type": "Gift",
-    "quantity": 3
+    "quantity": 3,
+    "price": null
   },
   "Shenkuu Sushi Roll Magnet": {
     "name": "Shenkuu Sushi Roll Magnet",
     "type": "Gift",
-    "quantity": 3
+    "quantity": 3,
+    "price": null
   },
   "Shimmery Seagrass": {
     "name": "Shimmery Seagrass",
     "type": "Gardening",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Shining Celesta Sword": {
     "name": "Shining Celesta Sword",
     "type": "Battle Magic",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Shiny Christmas Ornament": {
     "name": "Shiny Christmas Ornament",
     "type": "Gift",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Shiny Obsidian": {
     "name": "Shiny Obsidian",
     "type": "Special",
-    "quantity": 58
+    "quantity": 58,
+    "price": null
   },
   "Shiny Purple Cowry Shell": {
     "name": "Shiny Purple Cowry Shell",
     "type": "Sea Shells",
-    "quantity": 3
+    "quantity": 3,
+    "price": null
   },
   "Shiver Me Shrimp": {
     "name": "Shiver Me Shrimp",
     "type": "Food",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Shop Wizard Tips": {
     "name": "Shop Wizard Tips",
     "type": "Book",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Short Stories from Brightvale": {
     "name": "Short Stories from Brightvale",
     "type": "Book",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Skeith Inspired Treasure Maps": {
     "name": "Skeith Inspired Treasure Maps",
     "type": "Book",
-    "quantity": 8
+    "quantity": 8,
+    "price": null
   },
   "Skeith Sock Puppet": {
     "name": "Skeith Sock Puppet",
     "type": "Toy",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Skeleton Wocky Plushie": {
     "name": "Skeleton Wocky Plushie",
     "type": "Plushies",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Skull Book": {
     "name": "Skull Book",
     "type": "Book",
-    "quantity": 3
+    "quantity": 3,
+    "price": null
   },
   "Skull Candy": {
     "name": "Skull Candy",
     "type": "Candy",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Skull Cookie": {
     "name": "Skull Cookie",
     "type": "Baked",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Slime Covered Window": {
     "name": "Slime Covered Window",
     "type": "Brightvale Windows",
-    "quantity": 2
+    "quantity": 2,
+    "price": null
   },
   "Slime Soup": {
     "name": "Slime Soup",
     "type": "Spooky Food",
-    "quantity": 2
+    "quantity": 2,
+    "price": null
   },
   "Slime Sundae": {
     "name": "Slime Sundae",
     "type": "Spooky Food",
-    "quantity": 5
+    "quantity": 5,
+    "price": null
   },
   "Slimesicle": {
     "name": "Slimesicle",
     "type": "Spooky Food",
-    "quantity": 2
+    "quantity": 2,
+    "price": null
   },
   "Slorg Care": {
     "name": "Slorg Care",
     "type": "Book",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Slorg Handheld Plushie": {
     "name": "Slorg Handheld Plushie",
     "type": "Gift",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Sloth Gummies": {
     "name": "Sloth Gummies",
     "type": "Candy",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Slug Flakes": {
     "name": "Slug Flakes",
     "type": "Food",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Small Giant Squid": {
     "name": "Small Giant Squid",
     "type": "Food",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Small Metal Shield": {
     "name": "Small Metal Shield",
     "type": "Defence Magic",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Small Neggnog Smoothie": {
     "name": "Small Neggnog Smoothie",
     "type": "Smoothie",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Small Unidentified Skull": {
     "name": "Small Unidentified Skull",
     "type": "Island Merchandise",
-    "quantity": 2
+    "quantity": 2,
+    "price": null
   },
   "Smelly Dung Muffin": {
     "name": "Smelly Dung Muffin",
     "type": "Battle Magic",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Smelly Jelly": {
     "name": "Smelly Jelly",
     "type": "Jelly Food",
-    "quantity": 5
+    "quantity": 5,
+    "price": null
   },
   "Smooshed Tomato": {
     "name": "Smooshed Tomato",
     "type": "Medieval Food",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Snail Sub": {
     "name": "Snail Sub",
     "type": "Gross Food",
-    "quantity": 2
+    "quantity": 2,
+    "price": null
   },
   "Sniddberry": {
     "name": "Sniddberry",
     "type": "Medieval Food",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Snorkle Snout": {
     "name": "Snorkle Snout",
     "type": "Spooky Food",
-    "quantity": 2
+    "quantity": 2,
+    "price": null
   },
   "Snot Burger": {
     "name": "Snot Burger",
     "type": "Food",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Snot Lotion": {
     "name": "Snot Lotion",
     "type": "Grooming",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Snot Pizza Slice": {
     "name": "Snot Pizza Slice",
     "type": "Pizza",
-    "quantity": 2
+    "quantity": 2,
+    "price": null
   },
   "Snotty Jelly": {
     "name": "Snotty Jelly",
     "type": "Jelly Food",
-    "quantity": 4
+    "quantity": 4,
+    "price": null
   },
   "Snow Gormball Gumball": {
     "name": "Snow Gormball Gumball",
     "type": "Candy",
-    "quantity": 2
+    "quantity": 2,
+    "price": null
   },
   "Snow Pyramid": {
     "name": "Snow Pyramid",
     "type": "Gardening",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Snowager Keyring": {
     "name": "Snowager Keyring",
     "type": "Toy",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Snowager Spring Toy": {
     "name": "Snowager Spring Toy",
     "type": "Springy Things",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Snowball Fight Stamp": {
     "name": "Snowball Fight Stamp",
     "type": "Stamp",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Snowball Pencil Sharpener": {
     "name": "Snowball Pencil Sharpener",
     "type": "School",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Snowball Slingshot": {
     "name": "Snowball Slingshot",
     "type": "Ice Crystal",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Snowbeast Horns": {
     "name": "Snowbeast Horns",
     "type": "Clothes",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Snowy Fashions": {
     "name": "Snowy Fashions",
     "type": "Book",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Snowy Holiday Tree for Petpets": {
     "name": "Snowy Holiday Tree for Petpets",
     "type": "Petpet Supplies",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Sock Pouch": {
     "name": "Sock Pouch",
     "type": "Toy",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Soggy Old Box": {
     "name": "Soggy Old Box",
     "type": "Gift",
-    "quantity": 2
+    "quantity": 2,
+    "price": null
   },
   "Soothing Stones": {
     "name": "Soothing Stones",
     "type": "Remarkable Restoratives",
-    "quantity": 2
+    "quantity": 2,
+    "price": null
   },
   "Space Exploration": {
     "name": "Space Exploration",
     "type": "Booktastic Book",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Space Faerie Cereal": {
     "name": "Space Faerie Cereal",
     "type": "Faerie Food",
-    "quantity": 3
+    "quantity": 3,
+    "price": null
   },
   "Space Faerie Pencil Case": {
     "name": "Space Faerie Pencil Case",
     "type": "School",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Space Faerie vs. Dr. Sloth - The Novel": {
     "name": "Space Faerie vs. Dr. Sloth - The Novel",
     "type": "Book",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Space Goggle Helmet": {
     "name": "Space Goggle Helmet",
     "type": "Space Defence",
-    "quantity": 3
+    "quantity": 3,
+    "price": null
   },
   "Space Rock Soup": {
     "name": "Space Rock Soup",
     "type": "Space Food",
-    "quantity": 2
+    "quantity": 2,
+    "price": null
   },
   "Space Spice": {
     "name": "Space Spice",
     "type": "Space Food",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Space Tots": {
     "name": "Space Tots",
     "type": "Space Food",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Sparkling Flotsam Fountain": {
     "name": "Sparkling Flotsam Fountain",
     "type": "Gardening",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Sparky": {
     "name": "Sparky",
     "type": "Petpet",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Speckled Faerie Chomby Plushie": {
     "name": "Speckled Faerie Chomby Plushie",
     "type": "Plushies",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Spiced Apple Pie": {
     "name": "Spiced Apple Pie",
     "type": "Space Food",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Spicy Red Pepper Omelette": {
     "name": "Spicy Red Pepper Omelette",
     "type": "Tyrannian Food",
-    "quantity": 4
+    "quantity": 4,
+    "price": null
   },
   "Spicy Taco Pizza": {
     "name": "Spicy Taco Pizza",
     "type": "Pizza",
-    "quantity": 2
+    "quantity": 2,
+    "price": null
   },
   "Spinach Feta Omelette": {
     "name": "Spinach Feta Omelette",
     "type": "Tyrannian Food",
-    "quantity": 2
+    "quantity": 2,
+    "price": null
   },
   "Spinning Rings": {
     "name": "Spinning Rings",
     "type": "Toy",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Splime": {
     "name": "Splime",
     "type": "Maraquan Petpets",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Sponge Grundo Sponge": {
     "name": "Sponge Grundo Sponge",
     "type": "Grooming",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Spongy Algae": {
     "name": "Spongy Algae",
     "type": "Gardening",
-    "quantity": 4
+    "quantity": 4,
+    "price": null
   },
   "Spongy Mound": {
     "name": "Spongy Mound",
     "type": "Gross Food",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Spooky Gooplecream": {
     "name": "Spooky Gooplecream",
     "type": "Spooky Food",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Spooky Looking Dark Potion": {
     "name": "Spooky Looking Dark Potion",
     "type": "Meridell Potion",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Spooky Mechafish": {
     "name": "Spooky Mechafish",
     "type": "Toy",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Spooky Shutter": {
     "name": "Spooky Shutter",
     "type": "Brightvale Windows",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Spooky Treasure Map": {
     "name": "Spooky Treasure Map",
     "type": "Special",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Spooky Tree Flute": {
     "name": "Spooky Tree Flute",
     "type": "Instrument",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Spotted Cheese": {
     "name": "Spotted Cheese",
     "type": "Medieval Food",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Spotted Scorchio Plushie": {
     "name": "Spotted Scorchio Plushie",
     "type": "Plushies",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Sprout Wrap": {
     "name": "Sprout Wrap",
     "type": "Healthy Food",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Spy Glasses": {
     "name": "Spy Glasses",
     "type": "Space Defence",
-    "quantity": 2
+    "quantity": 2,
+    "price": null
   },
   "Square Gelatin": {
     "name": "Square Gelatin",
     "type": "Food",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Squibble Berry Jam": {
     "name": "Squibble Berry Jam",
     "type": "Brightvale Fruit",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Squished Jelly": {
     "name": "Squished Jelly",
     "type": "Jelly Food",
-    "quantity": 5
+    "quantity": 5,
+    "price": null
   },
   "Sroom Fruit": {
     "name": "Sroom Fruit",
     "type": "Brightvale Fruit",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Stagnant Puddle of Water": {
     "name": "Stagnant Puddle of Water",
     "type": "Furniture",
-    "quantity": 2
+    "quantity": 2,
+    "price": null
   },
   "Stamp Bouncy Ball": {
     "name": "Stamp Bouncy Ball",
     "type": "Toy",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Star Fish Sandwich": {
     "name": "Star Fish Sandwich",
     "type": "Tropical Food",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Star Ornament": {
     "name": "Star Ornament",
     "type": "Gift",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Starry Biscuit Jar": {
     "name": "Starry Biscuit Jar",
     "type": "Furniture",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Starry Box Kite": {
     "name": "Starry Box Kite",
     "type": "Toy",
-    "quantity": 2
+    "quantity": 2,
+    "price": null
   },
   "Starry Cookie Pile": {
     "name": "Starry Cookie Pile",
     "type": "Food",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Starry Sea Fern": {
     "name": "Starry Sea Fern",
     "type": "Gardening",
-    "quantity": 2
+    "quantity": 2,
+    "price": null
   },
   "Starry Snowbunny Plushie": {
     "name": "Starry Snowbunny Plushie",
     "type": "Plushies",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Starry Yellow Birthday Cupcake": {
     "name": "Starry Yellow Birthday Cupcake",
@@ -4197,172 +5032,206 @@
   "Stego": {
     "name": "Stego",
     "type": "Tyrannian Petpet",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Step Out Shoes": {
     "name": "Step Out Shoes",
     "type": "Medicine",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Stick-O-Sap": {
     "name": "Stick-O-Sap",
     "type": "Tyrannian Food",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Sticky Snowball": {
     "name": "Sticky Snowball",
     "type": "Battle Magic",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Stone Jelly": {
     "name": "Stone Jelly",
     "type": "Jelly Food",
-    "quantity": 2
+    "quantity": 2,
+    "price": null
   },
   "Stone Shield": {
     "name": "Stone Shield",
     "type": "Defence Magic",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Stone Veggie": {
     "name": "Stone Veggie",
     "type": "Tyrannian Food",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Strange Green Seeds": {
     "name": "Strange Green Seeds",
     "type": "Medieval Food",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Strawberry Jelly": {
     "name": "Strawberry Jelly",
     "type": "Jelly Food",
-    "quantity": 2
+    "quantity": 2,
+    "price": null
   },
   "Strawberry Kougra Pudding": {
     "name": "Strawberry Kougra Pudding",
     "type": "Food",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Strawberry Omelette": {
     "name": "Strawberry Omelette",
     "type": "Tyrannian Food",
-    "quantity": 3
+    "quantity": 3,
+    "price": null
   },
   "Strawberry Rock Paste": {
     "name": "Strawberry Rock Paste",
     "type": "Tyrannian Food",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Strawberry Wocky Morphing Potion": {
     "name": "Strawberry Wocky Morphing Potion",
     "type": "Magic Item",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Strawberry and Cheese Milkshake": {
     "name": "Strawberry and Cheese Milkshake",
     "type": "Gross Food",
-    "quantity": 2
+    "quantity": 2,
+    "price": null
   },
   "Strawberry and Cream Fish Pop": {
     "name": "Strawberry and Cream Fish Pop",
     "type": "Gross Food",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Striped Toy Box": {
     "name": "Striped Toy Box",
     "type": "Toy",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Strypedillo Jam": {
     "name": "Strypedillo Jam",
     "type": "Brightvale Fruit",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Strypedillo": {
     "name": "Strypedillo",
     "type": "Brightvale Fruit",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Sugarbunny Surprise": {
     "name": "Sugarbunny Surprise",
     "type": "Space Food",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Super Duper Scooter": {
     "name": "Super Duper Scooter",
     "type": "Toy",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Super Energy Blast Drink": {
     "name": "Super Energy Blast Drink",
     "type": "Food",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Super Toy Sailboat": {
     "name": "Super Toy Sailboat",
     "type": "Island Merchandise",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Supernova": {
     "name": "Supernova",
     "type": "Magic Item",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Supersize Gargantuplex": {
     "name": "Supersize Gargantuplex",
     "type": "Battle Magic",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Surfboard Keyring": {
     "name": "Surfboard Keyring",
     "type": "Island Merchandise",
-    "quantity": 2
+    "quantity": 2,
+    "price": null
   },
   "Sushi Platter": {
     "name": "Sushi Platter",
     "type": "Exotic Foods",
-    "quantity": 2
+    "quantity": 2,
+    "price": null
   },
   "Sushi Rolls": {
     "name": "Sushi Rolls",
     "type": "Food",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Sweetcorn with Tomato Sauce": {
     "name": "Sweetcorn with Tomato Sauce",
     "type": "Gross Food",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Swirly Sand Sculpture": {
     "name": "Swirly Sand Sculpture",
     "type": "Furniture",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Swirly Thin Grey Beard": {
     "name": "Swirly Thin Grey Beard",
     "type": "Toy",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Symol Balloon": {
     "name": "Symol Balloon",
     "type": "Toy",
-    "quantity": 2
+    "quantity": 2,
+    "price": null
   },
   "Symol Dirt Pie": {
     "name": "Symol Dirt Pie",
     "type": "Medieval Food",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "TDMBGPOP Trick-or-Treat Bag": {
     "name": "TDMBGPOP Trick-or-Treat Bag",
     "type": "Toy",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Tablet of Water Runes": {
     "name": "Tablet of Water Runes",
     "type": "Qasalan Tablets",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Taelias Concoction VI": {
     "name": "Taelias Concoction VI",
@@ -4372,497 +5241,596 @@
   "Tanglepus": {
     "name": "Tanglepus",
     "type": "Food",
-    "quantity": 2
+    "quantity": 2,
+    "price": null
   },
   "Tangy Tigersquash Omelette": {
     "name": "Tangy Tigersquash Omelette",
     "type": "Tyrannian Food",
-    "quantity": 7
+    "quantity": 7,
+    "price": null
   },
   "Tangy Tyrannian Cheese and Crackers": {
     "name": "Tangy Tyrannian Cheese and Crackers",
     "type": "Special",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Tasty Fungus": {
     "name": "Tasty Fungus",
     "type": "Space Food",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Tchea Fruit": {
     "name": "Tchea Fruit",
     "type": "Desert Food",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Tears of the Water Faerie": {
     "name": "Tears of the Water Faerie",
     "type": "Magic Item",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Techo Says - The Book": {
     "name": "Techo Says - The Book",
     "type": "Book",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Ten Dubloon Coin": {
     "name": "Ten Dubloon Coin",
     "type": "Special",
-    "quantity": 2
+    "quantity": 2,
+    "price": null
   },
   "Tencals Balloon": {
     "name": "Tencals Balloon",
     "type": "Toy",
-    "quantity": 3
+    "quantity": 3,
+    "price": null
   },
   "Tentacle Sprout": {
     "name": "Tentacle Sprout",
     "type": "Tyrannian Food",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Terracotta Lamp": {
     "name": "Terracotta Lamp",
     "type": "Desert Pottery",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Terror Mountain Mansion Background": {
     "name": "Terror Mountain Mansion Background",
     "type": "Mystical Surroundings",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "The Battle Faerie": {
     "name": "The Battle Faerie",
     "type": "Collectable Card",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "The Bucket Book": {
     "name": "The Bucket Book",
     "type": "Book",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "The Holiday Sand": {
     "name": "The Holiday Sand",
     "type": "Book",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "The Magic Paw": {
     "name": "The Magic Paw",
     "type": "Book",
-    "quantity": 2
+    "quantity": 2,
+    "price": null
   },
   "The Mighty Blumaroo": {
     "name": "The Mighty Blumaroo",
     "type": "Book",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "The Qasalan Royal History": {
     "name": "The Qasalan Royal History",
     "type": "Qasalan Tablets",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "The Secret of Treasure Island": {
     "name": "The Secret of Treasure Island",
     "type": "Book",
-    "quantity": 7
+    "quantity": 7,
+    "price": null
   },
   "The Tale of the Odd Snowball": {
     "name": "The Tale of the Odd Snowball",
     "type": "Book",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Tigersquash Crepe": {
     "name": "Tigersquash Crepe",
     "type": "Tropical Food",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Tiki Bookmark": {
     "name": "Tiki Bookmark",
     "type": "Island Merchandise",
-    "quantity": 3
+    "quantity": 3,
+    "price": null
   },
   "Tiki Brochure": {
     "name": "Tiki Brochure",
     "type": "Island Merchandise",
-    "quantity": 3
+    "quantity": 3,
+    "price": null
   },
   "Tiki Kite": {
     "name": "Tiki Kite",
     "type": "Island Merchandise",
-    "quantity": 2
+    "quantity": 2,
+    "price": null
   },
   "Tiki Tack Keyring": {
     "name": "Tiki Tack Keyring",
     "type": "Island Merchandise",
-    "quantity": 3
+    "quantity": 3,
+    "price": null
   },
   "Tiny Umbrella": {
     "name": "Tiny Umbrella",
     "type": "Clothes",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Titanic Giant Squid": {
     "name": "Titanic Giant Squid",
     "type": "Food",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Toe Nail Soup": {
     "name": "Toe Nail Soup",
     "type": "Gross Food",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Tomato Bomb": {
     "name": "Tomato Bomb",
     "type": "Battle Magic",
-    "quantity": 3
+    "quantity": 3,
+    "price": null
   },
   "Tomato Omelette": {
     "name": "Tomato Omelette",
     "type": "Tyrannian Food",
-    "quantity": 3
+    "quantity": 3,
+    "price": null
   },
   "Tomato and Pepper Omelette": {
     "name": "Tomato and Pepper Omelette",
     "type": "Tyrannian Food",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Tombola Keyring": {
     "name": "Tombola Keyring",
     "type": "Toy",
-    "quantity": 5
+    "quantity": 5,
+    "price": null
   },
   "Tombola T-shirt": {
     "name": "Tombola T-shirt",
     "type": "Clothes",
-    "quantity": 4
+    "quantity": 4,
+    "price": null
   },
   "Tombola Visor": {
     "name": "Tombola Visor",
     "type": "Island Merchandise",
-    "quantity": 4
+    "quantity": 4,
+    "price": null
   },
   "Tome of Selket": {
     "name": "Tome of Selket",
     "type": "Desert Scroll",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Tongue with Veggies": {
     "name": "Tongue with Veggies",
     "type": "Spooky Food",
-    "quantity": 2
+    "quantity": 2,
+    "price": null
   },
   "Tonguewich": {
     "name": "Tonguewich",
     "type": "Gross Food",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Torakor Action Figure": {
     "name": "Torakor Action Figure",
     "type": "Toy",
-    "quantity": 2
+    "quantity": 2,
+    "price": null
   },
   "Torn White Gym Socks": {
     "name": "Torn White Gym Socks",
     "type": "Clothes",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Tower-o-Boxes": {
     "name": "Tower-o-Boxes",
     "type": "Toy",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Toy Pirate Sword": {
     "name": "Toy Pirate Sword",
     "type": "Toy",
-    "quantity": 5
+    "quantity": 5,
+    "price": null
   },
   "Toy Spider Ring": {
     "name": "Toy Spider Ring",
     "type": "Toy",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Toyed Up Vandagyre Belt": {
     "name": "Toyed Up Vandagyre Belt",
     "type": "Clothes",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Traditional Bone Throne": {
     "name": "Traditional Bone Throne",
     "type": "Furniture",
-    "quantity": 3
+    "quantity": 3,
+    "price": null
   },
   "Travertine Bookshelf": {
     "name": "Travertine Bookshelf",
     "type": "Tyrannian Furniture",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Treasure Map Negg": {
     "name": "Treasure Map Negg",
     "type": "Food",
-    "quantity": 4
+    "quantity": 4,
+    "price": null
   },
   "Trilo Bite": {
     "name": "Trilo Bite",
     "type": "Tyrannian Food",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Triple Tier Space Faerie Cake": {
     "name": "Triple Tier Space Faerie Cake",
     "type": "Faerie Food",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Tropical Flora and Fauna": {
     "name": "Tropical Flora and Fauna",
     "type": "Book",
-    "quantity": 3
+    "quantity": 3,
+    "price": null
   },
   "Trrygdorr": {
     "name": "Trrygdorr",
     "type": "Collectable Card",
-    "quantity": 2
+    "quantity": 2,
+    "price": null
   },
   "Trudys Coin Purse": {
     "name": "Trudys Coin Purse",
     "type": "Gift",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Trudys Tales of Nightly Neopian Walks": {
     "name": "Trudys Tales of Nightly Neopian Walks",
     "type": "Book",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Trumpet Of Blasting": {
     "name": "Trumpet Of Blasting",
     "type": "Battle Magic",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Turmaculus Plushie": {
     "name": "Turmaculus Plushie",
     "type": "Plushies",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Tuskaninny Figurine": {
     "name": "Tuskaninny Figurine",
     "type": "Toy",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Tuskaninny Treasure": {
     "name": "Tuskaninny Treasure",
     "type": "Book",
-    "quantity": 4
+    "quantity": 4,
+    "price": null
   },
   "Twirly Fruit Daisy Lollypop": {
     "name": "Twirly Fruit Daisy Lollypop",
     "type": "Candy",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Twirly Fruit Omelette": {
     "name": "Twirly Fruit Omelette",
     "type": "Tyrannian Food",
-    "quantity": 2
+    "quantity": 2,
+    "price": null
   },
   "Twirly Plant": {
     "name": "Twirly Plant",
     "type": "Gardening",
-    "quantity": 3
+    "quantity": 3,
+    "price": null
   },
   "Two Dubloon Coin": {
     "name": "Two Dubloon Coin",
     "type": "Special",
-    "quantity": 5
+    "quantity": 5,
+    "price": null
   },
   "Tyragh the Tyrannian Buzz": {
     "name": "Tyragh the Tyrannian Buzz",
     "type": "Collectable Card",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Tyrannian Acara Plushie": {
     "name": "Tyrannian Acara Plushie",
     "type": "Plushies",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Tyrannian Goulash": {
     "name": "Tyrannian Goulash",
     "type": "Tyrannian Food",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Tyrannian Petpet Paint Brush": {
     "name": "Tyrannian Petpet Paint Brush",
     "type": "Special",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Tyrannian Rock Salad": {
     "name": "Tyrannian Rock Salad",
     "type": "Tyrannian Food",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Tyrannian Skeith Plushie": {
     "name": "Tyrannian Skeith Plushie",
     "type": "Plushies",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Tyrannian Usuki": {
     "name": "Tyrannian Usuki",
     "type": "Usuki Doll",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Ubikiberry Elixir": {
     "name": "Ubikiberry Elixir",
     "type": "Magic Item",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Ugga Melon Omelette": {
     "name": "Ugga Melon Omelette",
     "type": "Tyrannian Food",
-    "quantity": 3
+    "quantity": 3,
+    "price": null
   },
   "Ultra Bubble Beam": {
     "name": "Ultra Bubble Beam",
     "type": "Battle Magic",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Ultra Fashionable Potato Sack": {
     "name": "Ultra Fashionable Potato Sack",
     "type": "Clothes",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Ultra Platinum Nerkmid": {
     "name": "Ultra Platinum Nerkmid",
     "type": "Special",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Ummagine": {
     "name": "Ummagine",
     "type": "Desert Food",
-    "quantity": 3
+    "quantity": 3,
+    "price": null
   },
   "Undead Broccoli": {
     "name": "Undead Broccoli",
     "type": "Spooky Food",
-    "quantity": 2
+    "quantity": 2,
+    "price": null
   },
   "Undead Celery": {
     "name": "Undead Celery",
     "type": "Spooky Food",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Undead Turnip": {
     "name": "Undead Turnip",
     "type": "Spooky Food",
-    "quantity": 2
+    "quantity": 2,
+    "price": null
   },
   "Unidentifiable Weak Bottled Faerie": {
     "name": "Unidentifiable Weak Bottled Faerie",
     "type": "Magic Item",
-    "quantity": 3
+    "quantity": 3,
+    "price": null
   },
   "Unlabelled Tin Can": {
     "name": "Unlabelled Tin Can",
     "type": "Island Merchandise",
-    "quantity": 2
+    "quantity": 2,
+    "price": null
   },
   "Usulbat Plushie": {
     "name": "Usulbat Plushie",
     "type": "Plushies",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Vandagyre Boy Folk Dancer Shoes": {
     "name": "Vandagyre Boy Folk Dancer Shoes",
     "type": "Clothes",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Vanilla and Passion Fruit Jelly": {
     "name": "Vanilla and Passion Fruit Jelly",
     "type": "Jelly Food",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Vegetarian Cheeseburger": {
     "name": "Vegetarian Cheeseburger",
     "type": "Food",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Veggie Hot Dog": {
     "name": "Veggie Hot Dog",
     "type": "Hot Dog",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Very Rotten Tomato": {
     "name": "Very Rotten Tomato",
     "type": "Gross Food",
-    "quantity": 2
+    "quantity": 2,
+    "price": null
   },
   "Vial of Pure Water": {
     "name": "Vial of Pure Water",
     "type": "Island Merchandise",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Virtupets Energy Sabre": {
     "name": "Virtupets Energy Sabre",
     "type": "Space Battle",
-    "quantity": 4
+    "quantity": 4,
+    "price": null
   },
   "Vo Codestone Plushie": {
     "name": "Vo Codestone Plushie",
     "type": "Plushies",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Void Plant": {
     "name": "Void Plant",
     "type": "Gardening",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Von Kougra Plushie": {
     "name": "Von Kougra Plushie",
     "type": "Plushies",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Walein": {
     "name": "Walein",
     "type": "Aquatic Petpet",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Warf Yoyo": {
     "name": "Warf Yoyo",
     "type": "Toy",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Water Faerie Water Blaster": {
     "name": "Water Faerie Water Blaster",
     "type": "Faerie Weapon Shop",
-    "quantity": 4
+    "quantity": 4,
+    "price": null
   },
   "Water Jelly": {
     "name": "Water Jelly",
     "type": "Jelly Food",
-    "quantity": 3
+    "quantity": 3,
+    "price": null
   },
   "Water Mote": {
     "name": "Water Mote",
     "type": "Brightvale Motes",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Water Muffin": {
     "name": "Water Muffin",
     "type": "Battle Magic",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Waterfish": {
     "name": "Waterfish",
     "type": "Food",
-    "quantity": 4
+    "quantity": 4,
+    "price": null
   },
   "Waterlogged Book": {
     "name": "Waterlogged Book",
     "type": "Book",
-    "quantity": 2
+    "quantity": 2,
+    "price": null
   },
   "Weak Bottled Air Faerie": {
     "name": "Weak Bottled Air Faerie",
     "type": "Magic Item",
-    "quantity": 2
+    "quantity": 2,
+    "price": null
   },
   "Weak Bottled Fire Faerie": {
     "name": "Weak Bottled Fire Faerie",
     "type": "Magic Item",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Weeble": {
     "name": "Weeble",
@@ -4872,191 +5840,229 @@
   "Wet Snowball": {
     "name": "Wet Snowball",
     "type": "Battle Magic",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "White Chocolate Nimmo": {
     "name": "White Chocolate Nimmo",
     "type": "Candy",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Whole Anchovy Pizza": {
     "name": "Whole Anchovy Pizza",
     "type": "Pizza",
-    "quantity": 5
+    "quantity": 5,
+    "price": null
   },
   "Whole Blunella Jelly": {
     "name": "Whole Blunella Jelly",
     "type": "Jelly Food",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Whole Chilli Deluxe Pizza": {
     "name": "Whole Chilli Deluxe Pizza",
     "type": "Pizza",
-    "quantity": 3
+    "quantity": 3,
+    "price": null
   },
   "Whole Chokato Jelly": {
     "name": "Whole Chokato Jelly",
     "type": "Jelly Food",
-    "quantity": 5
+    "quantity": 5,
+    "price": null
   },
   "Whole Kiwi Jelly": {
     "name": "Whole Kiwi Jelly",
     "type": "Jelly Food",
-    "quantity": 3
+    "quantity": 3,
+    "price": null
   },
   "Whole Pinanna Jelly": {
     "name": "Whole Pinanna Jelly",
     "type": "Jelly Food",
-    "quantity": 3
+    "quantity": 3,
+    "price": null
   },
   "Whole Purplum Jelly": {
     "name": "Whole Purplum Jelly",
     "type": "Jelly Food",
-    "quantity": 2
+    "quantity": 2,
+    "price": null
   },
   "Whole Thornberry Jelly": {
     "name": "Whole Thornberry Jelly",
     "type": "Jelly Food",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Whole Tigersquash Jelly": {
     "name": "Whole Tigersquash Jelly",
     "type": "Jelly Food",
-    "quantity": 3
+    "quantity": 3,
+    "price": null
   },
   "Wind Up Chia Clown": {
     "name": "Wind Up Chia Clown",
     "type": "Toy",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Wind Up Florg": {
     "name": "Wind Up Florg",
     "type": "Toy",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Wind Up Potgatkerchi Toy": {
     "name": "Wind Up Potgatkerchi Toy",
     "type": "Toy",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Wocky Dartboard": {
     "name": "Wocky Dartboard",
     "type": "Toy",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Wooden Blocking Shield": {
     "name": "Wooden Blocking Shield",
     "type": "Defence Magic",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Wooden Patio Table": {
     "name": "Wooden Patio Table",
     "type": "Gardening",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Wooden Pirate Ship": {
     "name": "Wooden Pirate Ship",
     "type": "Toy",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Wooden Practice Shield": {
     "name": "Wooden Practice Shield",
     "type": "Wonderous Weaponry",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Woollen Socks Knitting Set": {
     "name": "Woollen Socks Knitting Set",
     "type": "Toy",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Worm Nugget": {
     "name": "Worm Nugget",
     "type": "Gross Food",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Wraith Fang": {
     "name": "Wraith Fang",
     "type": "Special",
-    "quantity": 2
+    "quantity": 2,
+    "price": null
   },
   "Wraith Fur": {
     "name": "Wraith Fur",
     "type": "Special",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Year 3 Calendar": {
     "name": "Year 3 Calendar",
     "type": "Book",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Yeasty Bread": {
     "name": "Yeasty Bread",
     "type": "Medieval Food",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Yellow Growth": {
     "name": "Yellow Growth",
     "type": "Gross Food",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Yellow Lupe Plushie": {
     "name": "Yellow Lupe Plushie",
     "type": "Plushies",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Yellow Paper Airplane": {
     "name": "Yellow Paper Airplane",
     "type": "Toy",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Yellow Puppyblew Flying Disc": {
     "name": "Yellow Puppyblew Flying Disc",
     "type": "Toy",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Yellow Snowball": {
     "name": "Yellow Snowball",
     "type": "Battle Magic",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Yellow Sticky Hand": {
     "name": "Yellow Sticky Hand",
     "type": "Battle Magic",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Zargrolds Guide to Being COOL": {
     "name": "Zargrolds Guide to Being COOL",
     "type": "Book",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Zeenana Crepe": {
     "name": "Zeenana Crepe",
     "type": "Tropical Food",
-    "quantity": 2
+    "quantity": 2,
+    "price": null
   },
   "Zei Codestone": {
     "name": "Zei Codestone",
     "type": "Special",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Zombie Grave Book": {
     "name": "Zombie Grave Book",
     "type": "Book",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Zombie Handbook": {
     "name": "Zombie Handbook",
     "type": "Book",
-    "quantity": 6
+    "quantity": 6,
+    "price": null
   },
   "Zombie Marshmallows": {
     "name": "Zombie Marshmallows",
     "type": "Spooky Food",
-    "quantity": 1
+    "quantity": 1,
+    "price": null
   },
   "Zomutt": {
     "name": "Zomutt",
     "type": "Spooky Petpet",
-    "quantity": 1
+    "quantity": 1,
+    "price": 150
   }
 }

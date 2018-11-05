@@ -29,9 +29,9 @@ const whereto = "http://www.neopets.com/safetydeposit.phtml";
   for (let page_num = 0; page_num <= item_amt; page_num += 30) {
 
     await page.goto(`${whereto}?category=0&obj_name=&offset=${page_num}`);
-    console.log(`${Math.floor(100 * page_num / item_amt)}%`);
 
-    let items;
+    let items,
+        outta_thirty = 1;
 
     try {
 
@@ -57,7 +57,9 @@ const whereto = "http://www.neopets.com/safetydeposit.phtml";
           }, {});
       });
 
-    } catch (err) {console.log("Reached end of safety deposit box.");}
+    } catch (err) {
+      console.log("Reached end of safety deposit box.");
+    }
 
 
     if (items) {
@@ -67,11 +69,16 @@ const whereto = "http://www.neopets.com/safetydeposit.phtml";
         const search_url = `https://items.jellyneo.net/search/?name=${name.replace(/\s/g, "+")}`;
         await page.goto(search_url);
         try {
-          const price = await page.$eval(".text-small", p => Number(p.textContent.split(" NC")[0]));
+          const price = await page.$eval(".text-small", p => Number(p.textContent.replace(/NP|\s/g, "")));
           items[name]["price"] = price;
         } catch (err) {
           console.log(`No price listed for ${name}.`);
         }
+
+        outta_thirty++;
+        const percent_done = ((100 * (page_num + outta_thirty)) / item_amt).toFixed(2);
+        console.log(`${percent_done}%`);
+
       }
 
       safetydeposit = Object.assign(items, safetydeposit);
