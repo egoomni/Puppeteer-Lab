@@ -20,9 +20,10 @@ const whereto = "http://www.neopets.com/safetydeposit.phtml";
   await page.goto(whereto);
 
   const item_amt = await page.$eval("td[colspan='2'][align='center']", td => {
-    return td.textContent
+    const amt = td.textContent
       .split("|")[0]
       .replace(/\s|[a-zA-Z]|,|:/g, "");
+    return Number(amt);
   });
 
   for (let page_num = 0; page_num <= item_amt; page_num += 30) {
