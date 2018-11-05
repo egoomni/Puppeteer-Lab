@@ -3,6 +3,9 @@ const fs = require('fs');
 const puppeteer = require('puppeteer');
 
 const {neopets_login} = require('./login.js');
+const Neopets_Stats = require('./neopets_stats.js');
+
+const stats = new Neopets_Stats();
 
 let neopet_functions = ["fruit_machine", "tombola", "lab", "fishing", "tdmbgpop", "money_tree", "meteor", "bank_interest", "anchor"]
   .reduce((acc, cur) => {
@@ -48,12 +51,17 @@ if (fs.existsSync(progress_path)) {
   console.log("Browser opening new tab");
   const page = await browser.newPage();
 
+  await stats.beginStat(page);
+
   for (let [name, fn] of Object.entries(neopet_functions)) {
 
     progress[name] = true;
     fs.writeFileSync(progress_path, JSON.stringify(progress));
 
     await fn(page, date);
+
+    await stats.updateStat(page);
+    stats.save(`dump/stats/${date}.json`);
 
   }
 
