@@ -2,43 +2,17 @@ require('dotenv').load();
 const fs = require('fs');
 const puppeteer = require('puppeteer');
 
-const {neopets_login} = require('./login.js');
+const helpers = require('./helpers.js');
+const date = helpers.get_iso_date();
+
+const neopets_login = require('./login.js');
+const dailies = require('./dailies.js');
+
 const Neopets_Stats = require('./neopets_stats.js');
+const stats = new Neopets_Stats(`dump/stats/${date}.json`);
 
-const stats = new Neopets_Stats();
-
-let neopet_functions = ["fruit_machine", "tombola", "lab", "fishing", "tdmbgpop", "money_tree", "meteor", "bank_interest", "anchor"]
-  .reduce((acc, cur) => {
-    acc[cur] = require(`./${cur}.js`)[cur];
-    return acc;
-  }, {});
-
-let progress;
-
-let gimme_date = new Date();
-let date_offset = new Date().getTimezoneOffset();
-gimme_date.setMinutes(gimme_date.getMinutes() - date_offset);
-const date = gimme_date.toISOString().split("T")[0];
-const progress_path = `dump/progress/${date}.json`;
-
-if (fs.existsSync(progress_path)) {
-
-  progress = JSON.parse(fs.readFileSync(progress_path));
-  Object.entries(progress)
-    .forEach(([name, bool]) => {
-      if (bool)
-        delete neopet_functions[name];
-    });
-
-} else {
-
-  progress = Object.entries(neopet_functions)
-    .reduce((acc, [name, fn]) => {
-      acc[name] = false;
-      return acc;
-    }, {});
-
-}
+const Neopets_Progress = require('./neopets_progress.js');
+const progress = new Neopets_Progress(`dump/progress/${date}.json`, dailies);
 
 (async () => {
 
@@ -53,15 +27,17 @@ if (fs.existsSync(progress_path)) {
 
   await stats.beginStat(page);
 
-  for (let [name, fn] of Object.entries(neopet_functions)) {
+  for (let [name, fn] of Object.entries(dailies)) {
 
-    progress[name] = true;
-    fs.writeFileSync(progress_path, JSON.stringify(progress));
+    if (progress.is_finished(name)) continue;
+
+    progress.finished(name);
+    progress.save();
 
     await fn(page, date);
 
     await stats.updateStat(page);
-    stats.save(`dump/stats/${date}.json`);
+    stats.save();
 
   }
 

@@ -3,9 +3,10 @@ const puppeteer = require('puppeteer');
 
 module.exports = class Neopets_Stats {
 
-  constructor() {
+  constructor(save_path) {
 
     this.inventory_url = "http://www.neopets.com/inventory.phtml";
+    this.save_path = save_path || "neopets_stats.json";
 
     this.starting_inventory;
     this.current_inventory;
@@ -67,10 +68,10 @@ module.exports = class Neopets_Stats {
 
   }
 
-  save(save_path = "neopets_stats.json") {
+  save() {
 
     fs.writeFileSync(
-      save_path,
+      this.save_path,
       JSON.stringify(
         this.summarize()
       )

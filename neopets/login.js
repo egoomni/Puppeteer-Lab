@@ -1,6 +1,6 @@
 const puppeteer = require('puppeteer');
 
-module.exports["neopets_login"] = async (username, password) => {
+module.exports = async (username, password) => {
 
   console.log("Launching Headless Chrome");
   const browser = await puppeteer.launch();
