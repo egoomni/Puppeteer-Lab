@@ -20,10 +20,18 @@ module.exports = class Neopets_Stats {
 
     await page.goto(this.inventory_url);
 
-    this.starting_inventory = await page.$eval(".inventory", table => {
-      const trs = [...table.children[0].children];
-      return trs.reduce((sum, tr) => sum += tr.children.length, 0);
-    });
+    try {
+
+      this.starting_inventory = await page.$eval(".inventory", table => {
+        const trs = [...table.children[0].children];
+        return trs.reduce((sum, tr) => sum += tr.children.length, 0);
+      });
+
+    } catch (err) {
+
+      this.starting_inventory = 0;
+
+    }
 
     this.starting_np = await page.$eval("#npanchor", a => {
       const np = a.innerText.replace(/,/g, "");
@@ -60,9 +68,9 @@ module.exports = class Neopets_Stats {
 
     let summary = "";
     summary += `At the beginning of the session, you began with ${si} items in your inventory and ${sn}NP.`;
-    summary += `By the end of the session, you ended with ${ci} items in your inventory and ${cn}NP.`;
-    summary += `You ${(ci >= si) ? "gained" : "lost"} ${Math.abs(delta_inventory)} items in your inventory`;
-    summary += ` and ${(cn >= sn) ? "gained" : "lost"} ${Math.abs(delta_np)} NP.`;
+    summary += ` By the end of the session, you ended with ${ci} items in your inventory and ${cn}NP.`;
+    summary += ` You ${(ci >= si) ? "gained" : "lost"} ${Math.abs(delta_inventory)} items in your inventory`;
+    summary += ` and ${(cn >= sn) ? "gained" : "lost"} ${Math.abs(delta_np)}NP.`;
 
     return {delta_np, delta_inventory, summary};
 
