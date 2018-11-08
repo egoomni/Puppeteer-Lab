@@ -4,6 +4,7 @@ Various Puppeteer experiments, implementations, research, and usages by EthanTha
 ## Complete Projects
 * __Neopets__: [Dailies](neopets/index.js)
 * __Instagram__: [Insta Bot](instagram/index.js)
+* __Spinner__: [Text Spinner](spinner/index.js)
 
 ## Neopets Plan:
 | Done | Project |
