@@ -25,7 +25,9 @@
   "homepage": "https://github.com/EthanThatOneKid/puppeteer#readme",
   "dependencies": {
     "dotenv": "^6.1.0",
+    "mathjs": "^5.2.3",
     "readline-sync": "^1.4.9",
-    "sleep-async": "^1.0.5"
+    "sleep-async": "^1.0.5",
+    "words-to-numbers": "^1.5.1"
   }
 }
