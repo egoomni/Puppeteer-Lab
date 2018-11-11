@@ -34,9 +34,9 @@ let result = "";
     await page.keyboard.type(paragraph);
 
     let ans = await page.$eval("#math_captcha_equation", input => input.value);
-    ans = solve_math_question(ans);
+    ans = String(solve_math_question(ans));
     await page.focus("textarea[name='formNameLabelTextBefore']");
-    await page.keyboard.type(answer);
+    await page.keyboard.type(ans);
 
     await page.click("input[value='Rewrite Text']");
     result += await page.$eval("textarea[name='formNameLabelTextAfter']", textarea => textarea.value);
