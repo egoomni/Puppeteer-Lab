@@ -15,8 +15,19 @@ const solve_math_question = (text) => {
 };
 
 const whereto = "https://articlerewritertool.com/";
-const paragraphs = fs.readFileSync(rl.question("Where is your text file?\n> "), "utf8").split("\n");
-let result = "";
+
+const prog_path = "recent_spin_progress.json";
+
+const corpus_path = rl.question("Where is your text file?\n> ");
+
+const paragraphs = (fs.existsSync(prog_path)) ?
+  JSON.parse(fs.readFileSync(prog_path)) :
+  fs.readFileSync(corpus_path, "utf8")
+    .split("\n")
+    .filter(p => p.length)
+    .map(p => {
+      return {content: p, spun: ""};
+    });
 
 (async () => {
 
@@ -28,23 +39,40 @@ let result = "";
 
   for (let paragraph of paragraphs) {
 
-    console.log(paragraph);
+    if (paragraph.spun.length) continue;
 
-    await page.focus("textarea[name='formNameLabelTextBefore']");
-    await page.keyboard.type(paragraph);
+    let {content} = paragraph;
 
-    let ans = await page.$eval("#math_captcha_equation", input => input.value);
-    ans = String(solve_math_question(ans));
-    await page.focus("textarea[name='formNameLabelTextBefore']");
-    await page.keyboard.type(ans);
+    await page.evaluate(p => {
+      document.querySelector("textarea[name='formNameLabelTextBefore']").value = p
+    }, content);
 
+    console.log("Solving math problem...");
+
+    const expression = await page.$eval("#math_captcha_equation", input => input.value);
+    const ans = String(solve_math_question(expression));
+    await page.evaluate(a => {
+      document.querySelector("input[name='math_captcha_answer']").value = a
+    }, ans);
+
+    console.log(`${expression} = ${ans}`);
+
+    console.log(`Rewriting ${content.slice(0, 15)}...`);
     await page.click("input[value='Rewrite Text']");
-    result += await page.$eval("textarea[name='formNameLabelTextAfter']", textarea => textarea.value);
-    result += "\n";
+    await page.waitForNavigation({waitUntil: "load"});
+
+    const spun_paragraph = await page.$eval("textarea[name='formNameLabelTextAfter']", textarea => textarea.value);
+    console.log(`${content.slice(0, 15)} spun to ${spun_paragraph.slice(0, 15)}`);
+    paragraph.spun = spun_paragraph;
+
+    fs.writeFileSync(prog_path, JSON.stringify(paragraphs, null, 2));
 
   }
 
-  fs.writeFileSync("spinned.txt", result);
-  console.log("saved");
+  const result = JSON.parse(fs.readFileSync(prog_path)).map(p => p.spun).join("\n");
+
+  const save_path = "recent_spin.txt";
+  fs.writeFileSync(save_path, result);
+  console.log(`Saved spun article as ${save_path}`);
 
 })();
