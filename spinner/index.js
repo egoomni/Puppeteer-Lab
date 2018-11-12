@@ -55,7 +55,7 @@ let counter = 0;
       continue;
     }
 
-    try_again: for (let pretty_please in ["Let's try this one time, yeah?"]) {
+    while (true) {
 
       await page.evaluate(p => {
         document.querySelector("textarea[name='formNameLabelTextBefore']").value = p
@@ -81,13 +81,14 @@ let counter = 0;
       } catch (err) {
 
         console.log("Trying that again. Oops.");
-        continue try_again;
+        continue;
 
       }
 
     }
 
     counter++;
+    break;
 
   }
 
