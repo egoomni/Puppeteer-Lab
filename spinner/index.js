@@ -18,7 +18,7 @@ const whereto = "https://articlerewritertool.com/";
 
 const prog_path = "recent_spin_progress.json";
 
-const corpus_path = rl.question("Where is your text file?\n> ");
+const corpus_path = "corpora/p&p_packet.txt"; // rl.question("Where is your text file?\n> ");
 
 const paragraphs = (fs.existsSync(prog_path)) ?
   JSON.parse(fs.readFileSync(prog_path)) :
