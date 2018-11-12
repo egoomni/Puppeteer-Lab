@@ -1,0 +1,11 @@
+{
+  "anchor": true,
+  "bank_interest": true,
+  "fishing": true,
+  "fruit_machine": true,
+  "lab": true,
+  "meteor": true,
+  "money_tree": true,
+  "tdmbgpop": true,
+  "tombola": true
+}
