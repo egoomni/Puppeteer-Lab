@@ -7,5 +7,7 @@
   "meteor": true,
   "money_tree": true,
   "tdmbgpop": true,
-  "tombola": true
+  "tombola": true,
+  "halloween_scratch": true,
+  "winter_scratch": true
 }

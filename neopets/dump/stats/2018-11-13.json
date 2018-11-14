@@ -1,5 +1,5 @@
 {
-  "delta_np": 0,
-  "delta_inventory": 15,
-  "summary": "At the beginning of the session, you began with 24 items in your inventory and 58716NP. By the end of the session, you ended with 39 items in your inventory and 58716NP. You gained 15 items in your inventory and gained 0NP."
+  "delta_np": -1200,
+  "delta_inventory": 0,
+  "summary": "At the beginning of the session, you began with 39 items in your inventory and 58716NP. By the end of the session, you ended with 39 items in your inventory and 57516NP. You gained 0 items in your inventory and lost 1200NP."
 }
