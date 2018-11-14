@@ -15,6 +15,7 @@ const solve_math_question = (text) => {
 };
 
 const whereto = "https://articlerewritertool.com/";
+const try_again_thresh = 4 * 1000;
 
 const prog_path = "recent_spin_progress.json";
 
@@ -70,7 +71,7 @@ let counter = 0;
       try {
 
         await page.click("input[value='Rewrite Text']");
-        await page.waitForNavigation({waitUntil: "load"});
+        await page.waitForNavigation({waitUntil: "load", timeout: try_again_thresh});
 
         const spun_paragraph = await page.$eval("textarea[name='formNameLabelTextAfter']", textarea => textarea.value);
         console.log(`${content.slice(0, 15)} spun to ${spun_paragraph.slice(0, 15)}`);
@@ -85,10 +86,11 @@ let counter = 0;
 
       }
 
+      break;
+
     }
 
     counter++;
-    break;
 
   }
 
