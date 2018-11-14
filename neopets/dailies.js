@@ -146,30 +146,6 @@ module.exports["fruit_machine"] = async (page) => {
 
 };
 
-// HALLOWEEN SCRATCHCARDS
-
-module.exports["halloween_scratch"] = async (page, date) => {
-
-  const whereto = "http://www.neopets.com/halloween/scratch.phtml";
-
-  console.log(`Page going to ${whereto}`);
-  await page.goto(whereto);
-
-  try {
-
-    console.log("Buying scratchcard off Happy Keeper");
-    await page.click("input[type='submit']:nth-of-type(1)");
-
-  } catch (err) {
-
-    console.log("Already bought a scratchcard today");
-
-  }
-
-  return page;
-
-};
-
 // LAB
 
 module.exports["lab"] = async (page, date) => {
@@ -307,6 +283,34 @@ module.exports["money_tree"] = async (page, date, max_attempts = 15) => {
 
 };
 
+// SCRATCHCARDS
+
+module.exports["scratch"] = async (page, date) => {
+
+  const where_scratch = process.env.SCRATCH || Math.random() > 0.5 ? "HALLOWEEN" : "WINTER";
+
+  const whereto = where_scratch == "HALLOWEEN" ?
+    "http://www.neopets.com/halloween/scratch.phtml" :
+    "http://www.neopets.com/winter/kiosk.phtml";
+
+  console.log(`Page going to ${whereto}`);
+  await page.goto(whereto);
+
+  try {
+
+    console.log(`Buying scratchcard off ${where_scratch} Keeper`);
+    await page.click("input[type='submit']:nth-of-type(1)");
+
+  } catch (err) {
+
+    console.log("Already bought a scratchcard today");
+
+  }
+
+  return page;
+
+};
+
 // THE DISCARDED MAGICAL BLUE GRUNDO PLUSHIE OF PROSPERITY
 
 module.exports["tdmbgpop"] = async (page, date) => {
@@ -359,30 +363,6 @@ module.exports["tombola"] = async (page, date) => {
   } catch (err) {
 
     console.log("Tombola unavailable");
-
-  }
-
-  return page;
-
-};
-
-// HALLOWEEN SCRATCHCARDS
-
-module.exports["winter_scratch"] = async (page, date) => {
-
-  const whereto = "http://www.neopets.com/winter/kiosk.phtml";
-
-  console.log(`Page going to ${whereto}`);
-  await page.goto(whereto);
-
-  try {
-
-    console.log("Buying scratchcard off Kiosk Keeper");
-    await page.click("input[type='submit']:nth-of-type(1)");
-
-  } catch (err) {
-
-    console.log("Already bought a scratchcard today");
 
   }
 
