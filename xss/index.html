@@ -9,9 +9,24 @@
 
 <body>
 
-  <h1>Hi there nerd</h1>
+  <input type="text">
+  <p></p>
 
-  <input type="text" id="shit-in-me">
+  <script>
+
+    let xss_injection_success = false;
+
+    document.querySelector("input").addEventListener("change", event => document.querySelector("p").innerHTML = event.target.value);
+
+    const native_alert = (() => this.alert)();
+
+    window.alert = msg => {
+      xss_injection_success = true;
+      console.log("sup")
+      native_alert(msg);
+    };
+
+  </script>
 
 </body>
 
