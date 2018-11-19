@@ -28,6 +28,7 @@
     "forever-monitor": "^1.7.1",
     "mathjs": "^5.2.3",
     "readline-sync": "^1.4.9",
+    "sanitize-filename": "^1.6.1",
     "sleep-async": "^1.0.5",
     "words-to-numbers": "^1.5.1"
   }
