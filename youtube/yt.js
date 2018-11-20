@@ -1,5 +1,4 @@
 const fs = require('fs');
-const sanitize = require('sanitize-filename');
 const puppeteer = require('puppeteer');
 
 function get_iso_date() {
@@ -48,10 +47,10 @@ module.exports["summarize"] = async (page, vid) => {
   const description = await page.$eval("#description > yt-formatted-string", desc => desc.innerText);
   const views = await page.$eval("#count > yt-view-count-renderer > span.view-count.style-scope.yt-view-count-renderer", txt => Number(txt.innerText.replace(/[^\d]/g, "")));
 
-  const [likes, dislikes] = await page.$$eval("#text", txts => [
-    Number(txts[0].innerText.replace(/[^\d]/g, "")),
-    Number(txts[1].innerText.replace(/[^\d]/g, ""))
-  ]);
+  let likes = dislikes = 0;
+  try {
+    [likes, dislikes] = await page.$$eval("#text", txts => [Number(txts[1]["ariaLabel"].replace(/[^\d]/g, "")), Number(txts[2]["ariaLabel"].replace(/[^\d]/g, ""))]);
+  } catch (err) {}
 
   const [channel_name, channel_id] = await page.$eval("#owner-name > a", a => [
     a.innerText, a.href.match(/(?<=\/channel\/).*$/g)[0]
@@ -62,32 +61,24 @@ module.exports["summarize"] = async (page, vid) => {
     return [date.getDay(), date.getDate(), date.getMonth(), date.getFullYear()];
   });
 
-  const subs = await page.$$eval("#subscribe-button > ytd-subscribe-button-renderer > paper-button > yt-formatted-string > span", span => {
-    const token = span[1].innerText; // "10M"
-    const val = Number(token.replace(/[^\d]/g, "")); // 10
-    const scalar_str = token.match(/[a-zA-Z]/g); // ["M"]
-    const scalar = scalar_str.length ? scalar_str[0] == "K" ? 1000 : 1000000 : 1; // 1,000,000
-    return val * scalar; // 10,000,000
-  });
-
-  console.log(`Waiting for ${title}'s transcript to load`)
+  console.log(`Waiting for ${title}'s transcript to load`);
+  let transcript = [];
   await page.click("#button[aria-label='More actions']");
   try {
     await page.click("#items > ytd-menu-service-item-renderer:nth-child(2)");
     await page.waitForSelector("#body > ytd-transcript-body-renderer");
+    transcript = await page.$$eval("#body > ytd-transcript-body-renderer > div", cue => {
+      return [...cue].map(ts => {
+        const time = ts.children[0].innerText.split(":").map(str => Number(str));
+        const content = ts.children[1].innerText.replace(/^\s+|\s+$/gm, "");
+        return [time, content];
+      });
+    });
   } catch (err) {
     console.log(`No captions available for ${title}`);
   }
 
-  const transcriptions = await page.$$eval(".cue", cue => [...cue].map(str => str.innerText).join(" ").split(/\!|\?|\./));
-
-  const summary = {title, description, views, likes, dislikes, channel_name, channel_id, day, date, month, year, subs, transcriptions};
-
-  const save_path = `dump/${sanitize(title)}.json`;
-  fs.writeFileSync(save_path, JSON.stringify(summary, null, 2));
-
-  console.log(`DONE (saved as ${save_path})`);
-  return summary;
+  return {vid, title, description, views, likes, dislikes, channel_name, channel_id, day, date, month, year, transcript};
 
 }
 
@@ -99,12 +90,6 @@ module.exports["trending"] = async (page) => {
   console.log(`Page going to ${whereto}`);
   await page.goto(whereto,  {waitUntil: "networkidle0"});
 
-  const vids = await page.$$eval("a#video-title", vid_anchors => [...vid_anchors].map(a => a.href.split("v=")[1]));
-
-  const save_path = `dump/trending_vids_${sanitize(date)}.txt`;
-  fs.writeFileSync(save_path, vids.join("\n"));
-
-  console.log(`DONE (saved as ${save_path})`);
-  return vids;
+  return await page.$$eval("a#video-title", vid_anchors => [...vid_anchors].map(a => a.href.split("v=")[1]));
 
 }
