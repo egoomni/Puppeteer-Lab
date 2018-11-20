@@ -5,7 +5,9 @@ const puppeteer = require('puppeteer');
 const yt = require('./yt.js');
 const JSONDB = require('node-json-db');
 
-const db = new JSONDB("YT_TRENDING_TODAY", true, false);
+const save_path = `trending_${yt.get_iso_date()}`;
+
+const db = new JSONDB(save_path, true, false);
 
 (async () => {
 
@@ -21,7 +23,8 @@ const db = new JSONDB("YT_TRENDING_TODAY", true, false);
       try {
         console.log("****************************")
         const summary = await yt.summarize(page, vid);
-        if (summary.transcript.length) db.push(`/${vid}`, summary);
+        if (summary.transcript.length)
+          db.push(`/${vid}`, summary);
         break;
       } catch (err) {
         skip_thresh--;
