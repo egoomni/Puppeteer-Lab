@@ -1,4 +1,4 @@
-# YT.js
+# yt.js
 
 ## Initialize
 `const yt = require('yt.js');`

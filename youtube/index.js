@@ -9,7 +9,7 @@ const yt = require('./yt.js');
   const browser = await puppeteer.launch();
   const page = await browser.newPage();
 
-  await yt.trending(page);
+  await yt.summarize(page, "cfbacRyEVTM");
 
   process.exit();
 
