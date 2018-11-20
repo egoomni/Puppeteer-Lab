@@ -15,16 +15,17 @@ const db = new JSONDB(save_path, true, false);
   const page = await browser.newPage();
 
   const trending = await yt.trending(page);
-  trending.slice(0, 5);
 
+  let cur = 1;
   for (let vid of trending) {
     let skip_thresh = 5;
     while (true) {
       try {
-        console.log("****************************")
+        console.log(`${(100 * cur / trending.length).toFixed(2)}%   |   ${cur}/${trending.length}`)
         const summary = await yt.summarize(page, vid);
         if (summary.transcript.length)
           db.push(`/${vid}`, summary);
+        cur++;
         break;
       } catch (err) {
         skip_thresh--;

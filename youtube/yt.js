@@ -84,7 +84,7 @@ module.exports["summarize"] = async (page, vid) => {
 
 module.exports["trending"] = async (page) => {
 
-  const date = get_iso_date();
+  const date = this.get_iso_date();
   const whereto = "https://www.youtube.com/feed/trending";
 
   console.log(`Page going to ${whereto}`);
