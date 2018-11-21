@@ -13,21 +13,28 @@ const db = new JSONDB(save_path, true, false);
   const browser = await puppeteer.launch();
   const page = await browser.newPage();
 
-  while (true) {
-
-    try {
-
-      const channel_data = await yt.channel(page, channel_id);
-      db.push("/", channel_data);
-      break;
-
-    } catch (err) {
-
-      console.log(err.toString());
-
-    }
-
-  }
+  const trending = [...(await yt.trending(page)).reduce((acc, cur) => {
+    if (cur.cid) acc.add(cur.cid);
+    return acc;
+  }, new Set())];
+  
+  console.log(trending);
+  //
+  // while (true) {
+  //
+  //   try {
+  //
+  //     const channel_data = await yt.channel(page, channel_id);
+  //     db.push("/", channel_data);
+  //     break;
+  //
+  //   } catch (err) {
+  //
+  //     console.log(err.toString());
+  //
+  //   }
+  //
+  // }
 
   process.exit();
 

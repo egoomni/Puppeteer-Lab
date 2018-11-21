@@ -6,14 +6,16 @@ const yt = require('./yt.js');
 const JSONDB = require('node-json-db');
 
 const save_path = `trending_${yt.get_iso_date()}`;
-const db = new JSONDB(save_path, true, false);
+const db = new JSONDB(save_path, true, true);
 
 (async () => {
 
   const browser = await puppeteer.launch();
   const page = await browser.newPage();
 
-  const trending = await yt.trending(page);
+  const trending = (await yt.trending(page)).filter(obj => obj.cid);
+  db.push("/", trending);
+  process.exit();
 
   let cur = 1;
   for (let vid of trending) {

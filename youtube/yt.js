@@ -13,7 +13,7 @@ module.exports["transcribe"] = async (page, vid) => {
   const whereto = `https://www.youtube.com/watch?v=${vid}`;
 
   console.log(`Page going to ${whereto}`);
-  await page.goto(whereto,  {waitUntil: "networkidle0"});
+  await page.goto(whereto, {waitUntil: "networkidle0"});
 
   const title = await page.$eval("#container > h1 > yt-formatted-string", h1 => h1.innerText);
 
@@ -42,12 +42,12 @@ module.exports["channel"] = async (page, cid) => {
 
   console.log(`Page going to ${whereto}`);
   await page.goto(whereto);
+
   const sub_count = await page.$eval("#subscriber-count", el => Number(el.innerText.replace(/[^\d]/g, "")));
+  const name = await page.$eval("#channel-title", span => span.innerText);
+  const playlist_id = `UU${cid.slice(2)}`;
 
-  await page.goto(`${whereto}/videos`);
-  const all_vids_list_id = await page.$eval("#play-all > ytd-button-renderer > a", a => a.href.match(/list=([^#\&\?]+)/)[1]);
-
-  await page.goto(`https://www.youtube.com/playlist?list=${all_vids_list_id}`,  {waitUntil: "networkidle0"});
+  await page.goto(`https://www.youtube.com/playlist?list=${playlist_id}`,  {waitUntil: "networkidle0"});
   const list_len = await page.$eval("#stats > yt-formatted-string:nth-child(1)", el => Number(el.innerText.replace(/[^\d]/g, "")));
   await page.evaluate(() => {
     const interval = setInterval(() => window.scrollBy(0, 100), 100);
@@ -55,7 +55,7 @@ module.exports["channel"] = async (page, cid) => {
   await page.waitForSelector(`#contents > ytd-playlist-video-renderer:nth-child(${list_len})`);
   const vids = await page.$$eval("#contents > ytd-playlist-video-renderer", els => [...els].map(el => el.children[2].children[0].href.match(/(?:http|https|)(?::\/\/|)(?:www.|)(?:youtu\.be\/|youtube\.com(?:\/embed\/|\/v\/|\/watch\?v=|\/ytscreeningroom\?v=|\/feeds\/api\/videos\/|\/user\S*[^\w\-\s]|\S*[^\w\-\s]))([\w\-]{11})[a-z0-9;:@#?&%=+\/\$_.-]*/i)[1]));
 
-  return {sub_count, vids}
+  return {cid, name, sub_count, playlist_id, vids}
 
 }
 
@@ -113,6 +113,13 @@ module.exports["trending"] = async (page) => {
   console.log(`Page going to ${whereto}`);
   await page.goto(whereto,  {waitUntil: "networkidle0"});
 
-  return await page.$$eval("a#video-title", vid_anchors => [...vid_anchors].map(a => a.href.split("v=")[1]));
+  return await page.$$eval("#grid-container > ytd-video-renderer", vids => {
+    return [...vids].map(div => {
+      const parent = div.children[0].children[1].children[0];
+      const vid = parent.children[0].children[0].children[1].href.split("v=")[1];
+      const cid = parent.children[1].children[0].children[0].children[0].children[0].children[0].href.split("/channel/")[1];
+      return {vid, cid};
+    });
+  });
 
 }
