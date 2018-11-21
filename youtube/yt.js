@@ -36,6 +36,29 @@ module.exports["transcribe"] = async (page, vid) => {
 
 }
 
+module.exports["channel"] = async (page, cid) => {
+
+  const whereto = `https://www.youtube.com/channel/${cid}`;
+
+  console.log(`Page going to ${whereto}`);
+  await page.goto(whereto);
+  const sub_count = await page.$eval("#subscriber-count", el => Number(el.innerText.replace(/[^\d]/g, "")));
+
+  await page.goto(`${whereto}/videos`);
+  const all_vids_list_id = await page.$eval("#play-all > ytd-button-renderer > a", a => a.href.match(/list=([^#\&\?]+)/)[1]);
+
+  await page.goto(`https://www.youtube.com/playlist?list=${all_vids_list_id}`,  {waitUntil: "networkidle0"});
+  const list_len = await page.$eval("#stats > yt-formatted-string:nth-child(1)", el => Number(el.innerText.replace(/[^\d]/g, "")));
+  await page.evaluate(() => {
+    const interval = setInterval(() => window.scrollBy(0, 100), 100);
+  });
+  await page.waitForSelector(`#contents > ytd-playlist-video-renderer:nth-child(${list_len})`);
+  const vids = await page.$$eval("#contents > ytd-playlist-video-renderer", els => [...els].map(el => el.children[2].children[0].href.match(/(?:http|https|)(?::\/\/|)(?:www.|)(?:youtu\.be\/|youtube\.com(?:\/embed\/|\/v\/|\/watch\?v=|\/ytscreeningroom\?v=|\/feeds\/api\/videos\/|\/user\S*[^\w\-\s]|\S*[^\w\-\s]))([\w\-]{11})[a-z0-9;:@#?&%=+\/\$_.-]*/i)[1]));
+
+  return {sub_count, vids}
+
+}
+
 module.exports["summarize"] = async (page, vid) => {
 
   const whereto = `https://www.youtube.com/watch?v=${vid}`;
